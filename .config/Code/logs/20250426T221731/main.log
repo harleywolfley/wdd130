@@ -1,0 +1,90 @@
+2025-04-26 22:17:32.939 [info] update#setState idle
+2025-04-26 22:18:02.396 [info] update#setState checking for updates
+2025-04-26 22:18:02.502 [info] update#setState idle
+2025-04-26 23:18:02.402 [info] update#setState checking for updates
+2025-04-26 23:18:03.119 [info] update#setState idle
+2025-04-26 23:45:51.129 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-27 00:18:02.107 [info] update#setState checking for updates
+2025-04-27 00:18:02.658 [info] update#setState idle
+2025-04-28 10:56:10.170 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-28 10:56:10.275 [info] update#setState checking for updates
+2025-04-28 10:56:18.771 [info] update#setState idle
+2025-04-28 11:15:49.155 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-28 11:21:43.569 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-28 11:56:10.188 [info] update#setState checking for updates
+2025-04-28 11:56:10.415 [info] update#setState idle
+2025-04-28 12:42:51.271 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-28 12:56:10.221 [info] update#setState checking for updates
+2025-04-28 12:56:10.427 [info] update#setState idle
+2025-04-28 18:52:56.093 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-28 18:52:55.479 [info] update#setState checking for updates
+2025-04-28 18:53:03.424 [error] #9: https://update.code.visualstudio.com/api/update/linux-x64/stable/17baf841131aa23349f217ca7c570c76ee87b957 - error undefined net::ERR_NETWORK_CHANGED
+2025-04-28 18:53:03.464 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118774)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-04-28 18:53:03.533 [info] update#setState idle
+2025-04-28 18:53:05.201 [warning] [perf] profiling STARTED db3e3898-8028-4c70-8c6a-b6acb3ed4925
+2025-04-28 18:53:10.422 [warning] [perf] profiling DONE db3e3898-8028-4c70-8c6a-b6acb3ed4925
+2025-04-28 18:53:12.063 [warning] [perf] profiling STARTED db3e3898-8028-4c70-8c6a-b6acb3ed4925
+2025-04-28 18:53:17.160 [warning] [perf] profiling DONE db3e3898-8028-4c70-8c6a-b6acb3ed4925
+2025-04-28 18:53:20.492 [warning] [perf] profiling STARTED db3e3898-8028-4c70-8c6a-b6acb3ed4925
+2025-04-28 18:53:25.644 [warning] [perf] profiling DONE db3e3898-8028-4c70-8c6a-b6acb3ed4925
+2025-04-28 18:53:35.746 [info] Extension host with pid 4343 exited with code: 0, signal: unknown.
+2025-04-29 10:16:49.384 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-29 10:16:49.422 [info] update#setState checking for updates
+2025-04-29 10:16:50.779 [error] #10: https://update.code.visualstudio.com/api/update/linux-x64/stable/17baf841131aa23349f217ca7c570c76ee87b957 - error undefined net::ERR_NETWORK_CHANGED
+2025-04-29 10:16:50.785 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118774)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-04-29 10:16:50.787 [info] update#setState idle
+2025-04-29 10:18:31.120 [warning] [perf] profiling STARTED ab85ab0b-beeb-4705-bd16-bb12be6b60ca
+2025-04-29 10:18:36.163 [warning] [perf] profiling DONE ab85ab0b-beeb-4705-bd16-bb12be6b60ca
+2025-04-29 10:18:36.564 [warning] [perf] profiling STARTED ab85ab0b-beeb-4705-bd16-bb12be6b60ca
+2025-04-29 10:18:41.654 [warning] [perf] profiling DONE ab85ab0b-beeb-4705-bd16-bb12be6b60ca
+2025-04-29 10:18:42.100 [warning] [perf] profiling STARTED ab85ab0b-beeb-4705-bd16-bb12be6b60ca
+2025-04-29 10:18:47.163 [warning] [perf] profiling DONE ab85ab0b-beeb-4705-bd16-bb12be6b60ca
+2025-04-29 11:16:49.427 [info] update#setState checking for updates
+2025-04-29 11:16:49.609 [info] update#setState idle
+2025-04-29 11:53:46.443 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-29 12:16:49.357 [info] update#setState checking for updates
+2025-04-29 12:16:50.093 [info] update#setState idle
+2025-04-29 13:16:49.360 [info] update#setState checking for updates
+2025-04-29 13:16:50.092 [info] update#setState idle
+2025-04-29 13:49:18.426 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-29 14:16:49.293 [info] update#setState checking for updates
+2025-04-29 14:16:49.505 [info] update#setState idle
+2025-04-29 20:06:38.088 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-29 20:06:38.089 [info] update#setState checking for updates
+2025-04-29 20:06:45.923 [error] #15: https://update.code.visualstudio.com/api/update/linux-x64/stable/17baf841131aa23349f217ca7c570c76ee87b957 - error undefined net::ERR_NETWORK_CHANGED
+2025-04-29 20:06:45.952 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118774)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-04-29 20:06:45.964 [info] update#setState idle
+2025-04-29 21:06:37.525 [info] update#setState checking for updates
+2025-04-29 21:06:38.196 [info] update#setState idle
+2025-04-30 11:19:11.822 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-30 11:19:11.823 [info] update#setState checking for updates
+2025-04-30 11:19:13.177 [error] #17: https://update.code.visualstudio.com/api/update/linux-x64/stable/17baf841131aa23349f217ca7c570c76ee87b957 - error undefined net::ERR_NETWORK_CHANGED
+2025-04-30 11:19:13.178 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118774)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-04-30 11:19:13.178 [info] update#setState idle
+2025-04-30 12:19:11.007 [info] update#setState checking for updates
+2025-04-30 12:19:11.246 [info] update#setState idle
+2025-04-30 12:36:59.802 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-30 12:55:01.749 [info] Extension host with pid 445 exited with code: 0, signal: unknown.
+2025-04-30 12:59:41.290 [warning] [perf] profiling STARTED efb963b0-06ad-44cc-ab1c-dd7698a8d443
+2025-04-30 12:59:46.377 [warning] [perf] profiling DONE efb963b0-06ad-44cc-ab1c-dd7698a8d443
+2025-04-30 12:59:46.897 [warning] [perf] profiling STARTED efb963b0-06ad-44cc-ab1c-dd7698a8d443
+2025-04-30 12:59:51.951 [warning] [perf] profiling DONE efb963b0-06ad-44cc-ab1c-dd7698a8d443
+2025-04-30 12:59:52.404 [warning] [perf] profiling STARTED efb963b0-06ad-44cc-ab1c-dd7698a8d443
+2025-04-30 12:59:57.492 [warning] [perf] profiling DONE efb963b0-06ad-44cc-ab1c-dd7698a8d443
+2025-04-30 13:02:15.206 [warning] [perf] profiling STARTED 60c28eb2-4de9-44f7-9f7a-c584d630c8d0
+2025-04-30 13:02:20.298 [warning] [perf] profiling DONE 60c28eb2-4de9-44f7-9f7a-c584d630c8d0
+2025-04-30 13:02:20.959 [warning] [perf] profiling STARTED 60c28eb2-4de9-44f7-9f7a-c584d630c8d0
+2025-04-30 13:02:26.035 [warning] [perf] profiling DONE 60c28eb2-4de9-44f7-9f7a-c584d630c8d0
+2025-04-30 13:02:26.990 [warning] [perf] profiling STARTED 60c28eb2-4de9-44f7-9f7a-c584d630c8d0
+2025-04-30 13:02:32.120 [warning] [perf] profiling DONE 60c28eb2-4de9-44f7-9f7a-c584d630c8d0
+2025-04-30 13:19:10.458 [info] update#setState checking for updates
+2025-04-30 13:19:10.668 [info] update#setState idle
+2025-04-30 13:20:05.531 [info] Extension host with pid 10986 exited with code: 0, signal: unknown.

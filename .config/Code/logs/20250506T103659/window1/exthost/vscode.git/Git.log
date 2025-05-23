@@ -1,0 +1,84 @@
+2025-05-06 10:37:21.014 [info] [main] Log level: Info
+2025-05-06 10:37:21.014 [info] [main] Validating found git in: "git"
+2025-05-06 10:37:21.014 [info] [main] Using git "2.39.5" from "git"
+2025-05-06 10:37:21.014 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-06 10:37:21.014 [info] > git rev-parse --show-toplevel [45ms]
+2025-05-06 10:37:21.018 [info] > git rev-parse --git-dir --git-common-dir [12ms]
+2025-05-06 10:37:21.018 [info] [Model][openRepository] Opened repository: /home/harleywolfley
+2025-05-06 10:37:21.025 [info] > git rev-parse --show-toplevel [91ms]
+2025-05-06 10:37:21.026 [info] > git config --get commit.template [131ms]
+2025-05-06 10:37:23.739 [info] > git rev-parse --show-toplevel [1382ms]
+2025-05-06 10:37:23.984 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [305ms]
+2025-05-06 10:37:24.060 [info] > git check-ignore -v -z --stdin [267ms]
+2025-05-06 10:37:24.077 [info] > git rev-parse --show-toplevel [97ms]
+2025-05-06 10:37:24.095 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-06 10:37:24.292 [info] > git show --textconv :spring25/wdd130/wwr/site-plan-rafting.html [85ms]
+2025-05-06 10:37:24.324 [info] > git ls-files --stage -- spring25/wdd130/wwr/site-plan-rafting.html [84ms]
+2025-05-06 10:37:24.471 [info] > git cat-file -s f9662d188592b454bceee6f0ad1758979bb824d4 [125ms]
+2025-05-06 10:37:24.558 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-06 10:37:24.773 [info] > git blame --root --incremental d750549661d6798f2f0f67593c4a76cef29f7a83 -- spring25/wdd130/wwr/site-plan-rafting.html [18ms]
+2025-05-06 10:37:26.281 [info] > git status -z -uall [1760ms] (cancelled)
+2025-05-06 10:37:33.630 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7430ms]
+2025-05-06 10:37:33.927 [info] > git config --get --local branch.main.vscode-merge-base [252ms]
+2025-05-06 10:37:33.927 [warning] [Git][config] git config failed: Failed to execute git
+2025-05-06 10:37:34.068 [info] > git config --get commit.template [438ms]
+2025-05-06 10:37:34.327 [info] > git reflog main --grep-reflog=branch: Created from *. [260ms]
+2025-05-06 10:37:34.400 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [13ms]
+2025-05-06 10:37:34.400 [info] fatal: ref refs/remotes/origin/HEAD is not a symbolic ref
+2025-05-06 10:37:34.400 [warning] [Repository][getDefaultBranch] Failed to get default branch details: Failed to execute git.
+2025-05-06 10:37:34.497 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [240ms]
+2025-05-06 10:37:34.521 [info] > git merge-base refs/heads/main refs/remotes/origin/main [24ms]
+2025-05-06 10:37:34.560 [info] > git diff --name-status -z --diff-filter=ADMR d750549661d6798f2f0f67593c4a76cef29f7a83...refs/remotes/origin/main [1ms]
+2025-05-06 10:37:34.813 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-06 10:37:39.785 [info] > git status -z -uall [5096ms] (cancelled)
+2025-05-07 13:17:45.998 [info] > git show --textconv :spring25/wdd130/wwr/index.html [32ms]
+2025-05-07 13:17:46.030 [info] > git hash-object -t tree /dev/null [20ms]
+2025-05-07 13:17:46.031 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/wdd130/wwr/index.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Fwwr%2Findex.html%22%2C%22ref%22%3A%22%22%7D
+2025-05-07 13:17:46.033 [info] > git ls-files --stage -- spring25/wdd130/wwr/index.html [43ms]
+2025-05-07 13:17:46.035 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/wdd130/wwr/index.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Fwwr%2Findex.html%22%2C%22ref%22%3A%22%22%7D
+2025-05-07 13:17:46.041 [info] > git check-ignore -v -z --stdin [19ms]
+2025-05-07 13:17:48.091 [info] > git blame --root --incremental d750549661d6798f2f0f67593c4a76cef29f7a83 -- spring25/wdd130/wwr/index.html [9ms]
+2025-05-07 13:17:48.091 [info] fatal: no such path spring25/wdd130/wwr/index.html in d750549661d6798f2f0f67593c4a76cef29f7a83
+2025-05-07 13:38:11.640 [info] > git show --textconv :spring25/wdd130/images [24ms]
+2025-05-07 13:38:11.641 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/wdd130/images.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Fimages%22%2C%22ref%22%3A%22%22%7D
+2025-05-07 13:38:11.643 [info] > git ls-files --stage -- spring25/wdd130/images [6ms]
+2025-05-07 13:38:11.647 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/wdd130/images.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Fimages%22%2C%22ref%22%3A%22%22%7D
+2025-05-07 13:38:11.874 [info] > git check-ignore -v -z --stdin [8ms]
+2025-05-07 13:38:18.680 [info] > git show --textconv :spring25/wdd130/wwr/index.html [1ms]
+2025-05-07 13:38:18.681 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/wdd130/wwr/index.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Fwwr%2Findex.html%22%2C%22ref%22%3A%22%22%7D
+2025-05-07 13:38:18.701 [info] > git ls-files --stage -- spring25/wdd130/wwr/index.html [1ms]
+2025-05-07 13:38:18.701 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/wdd130/wwr/index.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Fwwr%2Findex.html%22%2C%22ref%22%3A%22%22%7D
+2025-05-07 13:38:45.327 [info] > git check-ignore -v -z --stdin [9ms]
+2025-05-07 14:25:16.656 [info] > git config --get commit.template [18ms]
+2025-05-07 14:25:16.682 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [9ms]
+2025-05-07 14:25:16.708 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-07 14:25:18.510 [info] > git status -z -uall [1819ms] (cancelled)
+2025-05-07 14:25:19.250 [info] > git show --textconv :spring25/wdd130/wwr/index.html [109ms]
+2025-05-07 14:25:19.250 [info] > git show --textconv HEAD:spring25/wdd130/wwr/index.html [60ms]
+2025-05-07 14:25:19.250 [info] > git ls-tree -l HEAD -- spring25/wdd130/wwr/index.html [2ms]
+2025-05-07 14:25:19.250 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/wdd130/wwr/index.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Fwwr%2Findex.html%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-05-07 14:25:19.251 [info] > git ls-files --stage -- spring25/wdd130/wwr/index.html [36ms]
+2025-05-07 14:25:19.258 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/wdd130/wwr/index.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Fwwr%2Findex.html%22%2C%22ref%22%3A%22HEAD%22%7D
+2025-05-07 14:25:19.277 [info] > git cat-file -s 3bd0b618ed88220cc8a3c23919b38414815aad16 [20ms]
+2025-05-07 14:25:33.207 [info] > git config --get commit.template [7ms]
+2025-05-07 14:25:33.228 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-05-07 14:25:33.268 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-07 14:25:34.991 [info] > git status -z -uall [1745ms] (cancelled)
+2025-05-07 14:25:34.991 [info] > git merge-base refs/heads/main refs/remotes/origin/main [1335ms]
+2025-05-07 14:25:35.020 [info] > git blame --root --incremental 2b68e74e9d7359115bd3850681e7556059c8b411 -- spring25/wdd130/wwr/index.html [1373ms]
+2025-05-07 14:25:35.036 [info] > git diff --name-status -z --diff-filter=ADMR d750549661d6798f2f0f67593c4a76cef29f7a83...refs/remotes/origin/main [16ms]
+2025-05-07 14:25:35.397 [info] > git ls-files --stage -- spring25/wdd130/wwr/index.html [2ms]
+2025-05-07 14:25:35.414 [info] > git cat-file -s 3bd0b618ed88220cc8a3c23919b38414815aad16 [7ms]
+2025-05-07 14:25:35.428 [info] > git show --textconv :spring25/wdd130/wwr/index.html [2ms]
+2025-05-07 14:26:12.224 [info] > git config --get commit.template [1ms]
+2025-05-07 14:26:12.240 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2025-05-07 14:26:12.287 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2025-05-07 14:26:14.217 [info] > git status -z -uall [1959ms] (cancelled)
+2025-05-07 14:26:14.217 [info] > git merge-base refs/heads/main refs/remotes/origin/main [1650ms]
+2025-05-07 14:26:14.261 [info] > git diff --name-status -z --diff-filter=ADMR 2b68e74e9d7359115bd3850681e7556059c8b411...refs/remotes/origin/main [33ms]
+2025-05-07 14:26:14.610 [info] > git ls-files --stage -- spring25/wdd130/wwr/index.html [4ms]
+2025-05-07 14:26:14.622 [info] > git cat-file -s 3bd0b618ed88220cc8a3c23919b38414815aad16 [2ms]
+2025-05-07 14:26:14.641 [info] > git show --textconv :spring25/wdd130/wwr/index.html [5ms]
+2025-05-07 17:42:35.539 [info] > git show --textconv :spring25/wdd130/wwr/style.css [109ms]
+2025-05-07 17:42:35.539 [info] > git ls-files --stage -- spring25/wdd130/wwr/style.css [95ms]
+2025-05-07 17:42:35.609 [info] > git cat-file -s 07b6bb2abf243a4d22c2b01429f12e09920ccf5b [46ms]

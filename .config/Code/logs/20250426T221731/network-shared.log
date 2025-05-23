@@ -1,0 +1,7 @@
+2025-04-28 10:56:20.194 [error] #40: https://main.vscode-cdn.net/extensions/marketplace.json - error GET Request timeout after 10000ms
+2025-04-28 11:16:31.261 [error] #46: https://main.vscode-cdn.net/extensions/marketplace.json - error GET Request timeout after 10000ms
+2025-04-29 10:16:50.821 [error] #109: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED
+2025-04-29 11:53:52.214 [error] #165: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2025-04-29 13:49:28.518 [error] #183: https://main.vscode-cdn.net/extensions/marketplace.json - error GET Request timeout after 10000ms
+2025-04-29 20:06:45.986 [error] #197: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_NETWORK_CHANGED
+2025-04-30 11:19:13.226 [error] #219: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_NAME_NOT_RESOLVED

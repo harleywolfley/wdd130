@@ -1,0 +1,7 @@
+child_price = float(input(f"What is the price of a child's meal? "))
+adult_price = float(input(f"What is the price of an adult's meal? "))
+child_amount = int(input(f"How many children are there? "))
+adult_amount = int(input(f"How many adults are there? "))
+tax-rate = int(input(f"What is the sales tax rate? "))
+print()
+print(f"Subtotal: ${child_price * child_amount + adult_price * adult_amount}")

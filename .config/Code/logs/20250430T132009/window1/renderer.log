@@ -1,0 +1,34 @@
+2025-04-30 13:20:10.836 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-30 13:20:10.838 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-30 13:20:10.838 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-30 13:20:12.520 [info] Started local extension host with pid 12289.
+2025-04-30 13:20:21.172 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-30 13:20:23.245 [info] [perf] Render performance baseline is 60ms
+2025-04-30 15:31:25.907 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.untitledWorkspace
+2025-04-30 15:31:34.910 [info] [lifecycle]: Shutdown was prevented (id: veto.untitledWorkspace)
+2025-05-01 10:17:55.327 [error] Error while getting the latest version for the extension esbenp.prettier-vscode from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-01 10:17:55.333 [error] Error while getting the latest version for the extension ms-python.debugpy from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-01 10:17:55.335 [error] Error while getting the latest version for the extension ms-python.python from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-01 10:17:55.336 [error] Error while getting the latest version for the extension ms-python.vscode-pylance from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-01 10:17:55.374 [error] Error while getting the latest version for the extension ritwickdey.liveserver from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-01 17:04:53.892 [warning] [perf] Renderer reported VERY LONG TASK (1257ms), starting profiling session '0636d589-6a34-46cb-b07a-8245c843e3a2'
+2025-05-02 10:05:14.962 [error] Error while getting the latest version for the extension esbenp.prettier-vscode from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-02 16:32:56.200 [warning] [perf] Renderer reported VERY LONG TASK (976ms), starting profiling session '85ee7e0f-0d6b-4a69-8c55-bba50f35ca6a'
+2025-05-02 16:33:51.315 [warning] [perf] Renderer reported VERY LONG TASK (644ms), starting profiling session 'e9d4e47c-b980-41ad-84bf-ff0018f38d69'
+2025-05-05 08:58:25.274 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-05-05 08:58:25.405 [error] Error while getting the latest version for the extension esbenp.prettier-vscode from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-05 08:58:25.415 [error] Error while getting the latest version for the extension ms-python.debugpy from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-05 08:58:25.451 [error] Error while getting the latest version for the extension ms-python.python from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-05 08:58:25.460 [error] Error while getting the latest version for the extension ms-python.vscode-pylance from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-05 08:58:25.462 [error] Error while getting the latest version for the extension ritwickdey.liveserver from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-05 11:52:36.536 [error] Cannot register two commands with the same id: _workbench.openUserSettingsEditor: Error: Cannot register two commands with the same id: _workbench.openUserSettingsEditor
+    at A (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:34:31760)
+    at t (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1864:81497)
+    at Hse.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1864:81817)
+    at E.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at aqs.updateCurrentProfile (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3211:89449)
+    at UGe.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1840:76868)
+    at Hse.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1840:74572)
+    at E.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)

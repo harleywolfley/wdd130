@@ -1,0 +1,27 @@
+header {
+    background-color: lightpink;
+    padding: 5px 20px;
+}
+
+img {
+    width: 23%;
+}
+
+div {
+    padding: 5px;
+    margin: 1%;
+    border-color: gray;
+    border-width: 2px;
+    border-style: groove;
+    width: 23%;
+}
+
+.tables {
+    width: 97%;
+}
+
+footer {
+    height: 10px;
+    background-color: lightpink;
+    width:initial;
+}

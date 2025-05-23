@@ -1,0 +1,32 @@
+2025-05-06 21:50:41.401 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-05-06 21:50:41.402 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-05-06 21:50:41.402 [warning] Dir "/home/harleywolfley/spring25/itm101/.pixi/envs" is not watchable (directory does not exist)
+2025-05-06 21:50:41.514 [info] Starting Environment refresh
+2025-05-06 21:50:41.565 [info] > hatch env show --json
+2025-05-06 21:50:41.565 [info] cwd: .
+2025-05-06 21:50:41.584 [info] Python interpreter path: /bin/python3
+2025-05-06 21:50:41.615 [info] > pyenv which python
+2025-05-06 21:50:41.615 [info] cwd: .
+2025-05-06 21:50:43.100 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-05-06 21:50:43.100 [info] Environments refresh paths discovered: 1587 milliseconds
+2025-05-06 21:50:43.304 [info] Environments refresh finished (event): 1791 milliseconds
+2025-05-06 21:50:43.310 [info] Environment refresh took 1798 milliseconds
+2025-05-06 21:50:45.280 [info] Starting Pylance language server.
+2025-05-06 21:53:11.166 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/03prepare.py
+2025-05-06 21:53:12.792 [info] CreateEnv Trigger - Workspace not found for /home/harleywolfley/spring25/cse110/assign/03prepare.py
+2025-05-06 21:54:20.053 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/03prepare.py
+2025-05-06 21:54:22.400 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/03prepare.py
+2025-05-06 21:55:31.893 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/03prepare.py
+2025-05-06 21:59:10.036 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/03prepare.py
+2025-05-07 10:42:14.359 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/04prove.py
+2025-05-07 10:46:41.481 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/04prove.py
+2025-05-07 10:47:32.372 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/04prove.py
+2025-05-07 10:47:49.554 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/04prove.py
+2025-05-07 10:49:55.100 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/04prove.py
+2025-05-07 10:57:02.781 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/04prove.py
+2025-05-07 10:57:58.559 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/04prove.py
+2025-05-07 10:58:11.453 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/04prove.py
+2025-05-07 10:59:11.402 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/04prove.py
+2025-05-07 11:03:52.799 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/04prove.py
+2025-05-07 11:06:18.196 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/04prove.py
+2025-05-07 11:18:44.726 [info] Discover tests for workspace name: undefined - uri: /home/harleywolfley/spring25/cse110/assign/04prove.py

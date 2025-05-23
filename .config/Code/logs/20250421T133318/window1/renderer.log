@@ -1,0 +1,14 @@
+2025-04-21 13:33:20.387 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-21 13:33:20.392 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-21 13:33:20.398 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-21 13:33:21.585 [info] Started local extension host with pid 1927.
+2025-04-21 13:33:26.439 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-21 13:33:28.858 [info] [perf] Render performance baseline is 99ms
+2025-04-21 18:42:59.199 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-04-22 10:11:00.468 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-04-22 10:11:00.493 [error] Error while getting the latest version for the extension esbenp.prettier-vscode. Failed to fetch
+2025-04-22 10:11:00.506 [error] Error while getting the latest version for the extension ritwickdey.liveserver. Failed to fetch
+2025-04-22 21:22:33.381 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-04-23 10:32:08.804 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-04-23 10:32:08.807 [error] Error while getting the latest version for the extension esbenp.prettier-vscode. Failed to fetch
+2025-04-23 10:32:08.808 [error] Error while getting the latest version for the extension ritwickdey.liveserver. Failed to fetch

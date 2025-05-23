@@ -1,0 +1,91 @@
+2025-05-06 10:37:02.086 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-06 10:37:02.087 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-06 10:37:02.087 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-06 10:37:05.436 [info] Started local extension host with pid 498.
+2025-05-06 10:37:17.405 [info] Extension host (LocalProcess pid: 498) is unresponsive.
+2025-05-06 10:37:17.543 [info] Extension host (LocalProcess pid: 498) is responsive.
+2025-05-06 10:37:18.990 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-06 10:37:26.565 [info] [perf] Render performance baseline is 439ms
+2025-05-06 10:37:28.804 [info] Extension host (LocalProcess pid: 498) is unresponsive.
+2025-05-06 10:37:29.864 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-05-06 10:37:35.414 [info] Extension host (LocalProcess pid: 498) is responsive.
+2025-05-06 10:37:35.414 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-05-06 10:37:36.073 [error] 
+	 at vs (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:24926)
+	 at getConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:3184)
+	 at getConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:46881)
+	 at resolveDefaultCommand (file:///usr/share/code/resources/app/extensions/git/dist/main.js:2:565503)
+	 at get command (file:///usr/share/code/resources/app/extensions/git/dist/main.js:2:559161)
+	 at (anonymous) (file:///usr/share/code/resources/app/extensions/git/dist/main.js:2:439342)
+	 at (anonymous) (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:55647)
+	 at (anonymous) (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:55620)
+	 at _takeResourceStateSnapshot (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:55566)
+	 at (anonymous) (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:60553)
+	 at eventuallyUpdateResourceStates (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:60524)
+	 at (anonymous) (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:94551)
+	 at listOnTimeout (node:internal/timers:524:25)
+	 at processTimers (node:internal/timers:504:25)
+2025-05-06 10:37:36.081 [error] 
+	 at (anonymous) (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:24981)
+	 at vs (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:24926)
+	 at getConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:3184)
+	 at getConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:173:46881)
+	 at resolveDefaultCommand (file:///usr/share/code/resources/app/extensions/git/dist/main.js:2:565503)
+	 at get command (file:///usr/share/code/resources/app/extensions/git/dist/main.js:2:559161)
+	 at (anonymous) (file:///usr/share/code/resources/app/extensions/git/dist/main.js:2:439342)
+	 at (anonymous) (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:55647)
+	 at (anonymous) (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:55620)
+	 at _takeResourceStateSnapshot (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:55566)
+	 at (anonymous) (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:60553)
+	 at eventuallyUpdateResourceStates (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:60524)
+	 at (anonymous) (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:94551)
+	 at listOnTimeout (node:internal/timers:524:25)
+	 at processTimers (node:internal/timers:504:25)
+2025-05-06 10:37:36.081 [error] 
+	 at serializeRequestArguments (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:119521)
+	 at U (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:115948)
+	 at s.<computed>.n.charCodeAt.s.<computed> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:113454)
+	 at eventuallyUpdateResourceStates (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:172:60524)
+	 at (anonymous) (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:28:94551)
+	 at listOnTimeout (node:internal/timers:524:25)
+	 at processTimers (node:internal/timers:504:25)
+2025-05-06 10:37:38.411 [info] Extension host (LocalProcess pid: 498) is unresponsive.
+2025-05-06 10:37:39.491 [info] UNRESPONSIVE extension host: starting to profile NOW
+2025-05-06 10:37:40.092 [info] Extension host (LocalProcess pid: 498) is responsive.
+2025-05-06 10:37:40.110 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2025-05-06 10:39:42.518 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.untitledWorkspace
+2025-05-06 10:39:42.771 [info] [lifecycle]: Shutdown was prevented (id: veto.untitledWorkspace)
+2025-05-07 09:01:44.167 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-05-07 09:01:44.168 [error] Error while getting the latest version for the extension esbenp.prettier-vscode from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-07 09:01:44.168 [error] Error while getting the latest version for the extension ms-python.debugpy from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-07 09:01:44.282 [error] Error while getting the latest version for the extension ms-python.python from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-07 09:01:44.282 [error] Error while getting the latest version for the extension ms-python.vscode-pylance from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-07 09:01:44.283 [error] Error while getting the latest version for the extension ritwickdey.liveserver from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-05-07 09:01:47.478 [error] Error while getting the latest version for the extension ms-python.debugpy. Failed to fetch
+2025-05-07 09:01:47.495 [error] Error while getting the latest version for the extension esbenp.prettier-vscode. Failed to fetch
+2025-05-07 09:01:47.503 [error] Error while getting the latest version for the extension ms-python.vscode-pylance. Failed to fetch
+2025-05-07 09:01:47.567 [error] Error while getting the latest version for the extension ms-python.python. Failed to fetch
+2025-05-07 09:01:47.581 [error] Error while getting the latest version for the extension ritwickdey.liveserver. Failed to fetch
+2025-05-07 17:57:41.460 [info] [lifecycle]: Shutdown was prevented (id: veto.untitledWorkspace)
+2025-05-07 18:04:42.221 [warning] [lifecycle] onBeforeShutdown is taking a long time, pending operations: veto.untitledWorkspace
+2025-05-07 18:04:51.382 [error] Cannot register two commands with the same id: _workbench.openUserSettingsEditor: Error: Cannot register two commands with the same id: _workbench.openUserSettingsEditor
+    at A (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:34:31760)
+    at t (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1864:81497)
+    at Hse.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1864:81817)
+    at E.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at E.C (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at E.fire (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at aqs.updateCurrentProfile (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3211:89449)
+    at UGe.z (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1840:76868)
+    at Hse.value (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1840:74572)
+    at E.B (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:29:2392)
+2025-05-07 18:04:51.542 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-05-07 18:04:53.125 [warning] Ignoring the error while validating workspace folder vscode-vfs://github/kianlamer/css-library - ENOPRO: No file system provider found for resource 'vscode-vfs://github/kianlamer/css-library'
+2025-05-07 18:04:53.152 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-07 18:04:53.152 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-07 18:04:53.154 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-05-07 18:04:53.365 [warning] Creation of workbench contribution 'workbench.contrib.chatAgentSetting' took 24ms.
+2025-05-07 18:04:53.560 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-07 18:04:54.010 [info] Started local extension host with pid 6468.
+2025-05-07 18:04:56.264 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-07 18:04:58.343 [info] [perf] Render performance baseline is 128ms

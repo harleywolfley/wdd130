@@ -1,0 +1,32 @@
+2025-04-26 22:17:34.039 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-26 22:17:34.040 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-python-envs' wants API proposal 'terminalShellType' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-26 22:17:34.041 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'github.copilot-chat' wants API proposal 'chatReadonlyPromptReference' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-04-26 22:17:35.518 [info] Started local extension host with pid 445.
+2025-04-26 22:17:42.617 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-04-26 22:17:45.647 [info] [perf] Render performance baseline is 91ms
+2025-04-28 18:53:03.891 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-04-29 10:16:50.788 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-04-29 10:16:50.820 [error] Error while getting the latest version for the extension esbenp.prettier-vscode from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-04-29 10:16:50.820 [error] Error while getting the latest version for the extension ms-python.debugpy from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-04-29 10:16:50.821 [error] Error while getting the latest version for the extension ms-python.python from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-04-29 10:16:50.850 [error] Error while getting the latest version for the extension ms-python.vscode-pylance from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-04-29 10:16:50.850 [error] Error while getting the latest version for the extension ritwickdey.liveserver from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-04-29 10:18:29.376 [warning] [perf] Renderer reported VERY LONG TASK (912ms), starting profiling session 'ab85ab0b-beeb-4705-bd16-bb12be6b60ca'
+2025-04-29 11:53:52.337 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-04-29 20:06:45.987 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-04-30 11:19:13.371 [warning] Failed to fetch chat participant registry Failed to fetch
+2025-04-30 11:19:13.372 [error] Error while getting the latest version for the extension esbenp.prettier-vscode from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-04-30 11:19:13.373 [error] Error while getting the latest version for the extension ms-python.debugpy from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-04-30 11:19:13.678 [error] Error while getting the latest version for the extension ms-python.python from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-04-30 11:19:13.693 [error] Error while getting the latest version for the extension ms-python.vscode-pylance from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-04-30 11:19:13.726 [error] Error while getting the latest version for the extension ritwickdey.liveserver from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed to fetch
+2025-04-30 11:19:15.701 [error] Error while getting the latest version for the extension esbenp.prettier-vscode. Failed to fetch
+2025-04-30 11:19:15.708 [error] Error while getting the latest version for the extension ms-python.python. Failed to fetch
+2025-04-30 11:19:15.709 [error] Error while getting the latest version for the extension ms-python.debugpy. Failed to fetch
+2025-04-30 11:19:15.709 [error] Error while getting the latest version for the extension ms-python.vscode-pylance. Failed to fetch
+2025-04-30 11:19:15.710 [error] Error while getting the latest version for the extension ritwickdey.liveserver. Failed to fetch
+2025-04-30 12:55:05.130 [info] Started local extension host with pid 10986.
+2025-04-30 12:55:12.604 [error] No registered selector for ID: ms-vscode.npm-command
+2025-04-30 12:59:40.609 [warning] [perf] Renderer reported VERY LONG TASK (1388ms), starting profiling session 'efb963b0-06ad-44cc-ab1c-dd7698a8d443'
+2025-04-30 13:02:14.318 [warning] [perf] Renderer reported VERY LONG TASK (1018ms), starting profiling session '60c28eb2-4de9-44f7-9f7a-c584d630c8d0'
+2025-04-30 13:20:05.719 [error] [File Watcher] Unexpected error stopping watcher: Unable to remove watcher: Invalid argument (path: /home/harleywolfley)

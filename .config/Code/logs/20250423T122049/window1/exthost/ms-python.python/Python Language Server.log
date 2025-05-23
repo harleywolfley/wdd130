@@ -1,0 +1,15 @@
+2025-04-23 20:08:02.475 [info] (Client) Pylance async client (2025.4.1) started with python extension (2025.4.0)
+2025-04-23 20:08:03.720 [info] [Info  - 8:08:03 PM] (4910) Server root directory: file:///home/harleywolfley/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-04-23 20:08:03.721 [info] [Info  - 8:08:03 PM] (4910) Pylance language server 2025.4.1 (pyright version 1.1.398, commit 4f24eccc) starting
+2025-04-23 20:09:14.078 [info] [Info  - 8:09:14 PM] (4910) Starting service instance "<default>" for workspace ""
+2025-04-23 20:09:14.596 [info] [Info  - 8:09:14 PM] (4910) Setting environmentName for service "<default>": "3.11.2 (global)"
+2025-04-23 20:09:14.598 [info] [Info  - 8:09:14 PM] (4910) Setting pythonPath for service "<default>": "/bin/python3"
+2025-04-23 20:09:14.598 [info] [Info  - 8:09:14 PM] (4910) No include entries specified; assuming /<default workspace root>
+2025-04-23 20:09:14.598 [info] [Info  - 8:09:14 PM] (4910) Auto-excluding **/node_modules
+2025-04-23 20:09:14.598 [info] [Info  - 8:09:14 PM] (4910) Auto-excluding **/__pycache__
+2025-04-23 20:09:14.598 [info] [Info  - 8:09:14 PM] (4910) Auto-excluding **/.*
+2025-04-23 20:09:14.633 [info] [Info  - 8:09:14 PM] (4910) Assuming Python version 3.11.2.final.0
+2025-04-23 20:09:14.892 [info] [Error - 8:09:14 PM] (4910) File or directory "/<default workspace root>" does not exist.
+2025-04-23 20:09:14.898 [info] [Info  - 8:09:14 PM] (4910) No source files found.
+2025-04-23 20:09:16.411 [info] [Info  - 8:09:16 PM] (4910) BG: Priority queue background worker(2) root directory: file:///home/harleywolfley/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-04-23 20:09:16.414 [info] [Info  - 8:09:16 PM] (4910) BG: Priority queue background worker(2) started

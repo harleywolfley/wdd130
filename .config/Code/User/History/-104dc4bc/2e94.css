@@ -1,0 +1,12 @@
+header {
+    background-color: lightpink;
+    padding: 5px 20px;
+}
+
+div {
+    padding: 5px;
+    margin: 1%;
+    border-color: gray;
+    border-width: 2px;
+    border-style: groove;
+}

@@ -1,0 +1,6 @@
+2025-05-01 10:17:52.953 [error] #21: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2025-05-01 10:17:52.991 [error] #22: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/esbenp/prettier-vscode/latest - error GET Failed to fetch
+2025-05-01 10:17:55.332 [error] #23: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-python/debugpy/latest - error GET Failed to fetch
+2025-05-01 10:17:55.385 [error] #24: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-python/python/latest - error GET Failed to fetch
+2025-05-01 10:17:55.386 [error] #25: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-python/vscode-pylance/latest - error GET Failed to fetch
+2025-05-01 10:17:55.420 [error] #26: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ritwickdey/liveserver/latest - error GET Failed to fetch

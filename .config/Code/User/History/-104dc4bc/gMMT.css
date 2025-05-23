@@ -1,0 +1,32 @@
+/*Google Fonts: Zain and Urbanist*/
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400&display=swap');
+
+header {
+    background-color: lightpink;
+    padding: 5px 20px;
+    font-family: urbanist, sans-serif;
+}
+
+img {
+    width: 23%;
+}
+
+div {
+    padding: 5px;
+    margin: 1%;
+    border-color: gray;
+    border-width: 2px;
+    border-style: groove;
+    width: 23%;
+    font-family: zain, sans-serif;
+    font-size: 15px;
+}
+
+.tables {
+    width: 97%;
+}
+
+footer {
+    height: 30px;
+    background-color: lightpink;
+}

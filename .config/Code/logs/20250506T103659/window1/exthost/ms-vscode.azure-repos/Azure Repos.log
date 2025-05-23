@@ -1,0 +1,3 @@
+2025-05-07 18:04:12.639 [warning] Running on the desktop; workspaceId=c4b5a01a1320f916ec9fd15c7d74e796; storageUri=vscode-userdata:/home/harleywolfley/.config/Code/User/globalStorage/ms-vscode.azure-repos
+2025-05-07 18:04:12.639 [info] [    2] ChangeStore.getWorkspacesWithChanges()
+2025-05-07 18:04:12.639 [info] [    2] ChangeStore.getWorkspacesWithChanges() took 0 ms

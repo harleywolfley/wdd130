@@ -1,0 +1,15 @@
+2025-04-23 17:42:32.642 [error] #21: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2025-04-24 10:06:42.414 [error] #54: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2025-04-24 10:06:42.424 [error] #55: https://www.vscode-unpkg.net/_gallery/esbenp/prettier-vscode/latest - error GET Failed to fetch
+2025-04-24 10:06:42.645 [error] #56: https://www.vscode-unpkg.net/_gallery/ritwickdey/liveserver/latest - error GET Failed to fetch
+2025-04-24 10:06:42.646 [error] #57: https://www.vscode-unpkg.net/_gallery/ms-python/debugpy/latest - error GET Failed to fetch
+2025-04-24 10:06:42.657 [error] #58: https://www.vscode-unpkg.net/_gallery/ms-python/python/latest - error GET Failed to fetch
+2025-04-24 10:06:42.658 [error] #59: https://www.vscode-unpkg.net/_gallery/ms-python/vscode-pylance/latest - error GET Failed to fetch
+2025-04-25 18:29:37.402 [error] #114: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2025-04-25 18:29:37.426 [error] #115: https://www.vscode-unpkg.net/_gallery/esbenp/prettier-vscode/latest - error GET Failed to fetch
+2025-04-25 18:29:37.441 [error] #116: https://www.vscode-unpkg.net/_gallery/ritwickdey/liveserver/latest - error GET Failed to fetch
+2025-04-25 18:29:37.444 [error] #117: https://www.vscode-unpkg.net/_gallery/ms-python/debugpy/latest - error GET Failed to fetch
+2025-04-25 18:29:37.452 [error] #118: https://www.vscode-unpkg.net/_gallery/ms-python/python/latest - error GET Failed to fetch
+2025-04-25 18:29:37.452 [error] #119: https://www.vscode-unpkg.net/_gallery/ms-python/vscode-pylance/latest - error GET Failed to fetch
+2025-04-25 18:29:40.198 [error] #120: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Failed to fetch
+2025-04-26 16:07:17.865 [error] #155: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch

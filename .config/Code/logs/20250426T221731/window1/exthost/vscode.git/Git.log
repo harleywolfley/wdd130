@@ -1,0 +1,270 @@
+2025-04-26 22:17:45.186 [info] [main] Log level: Info
+2025-04-26 22:17:45.186 [info] [main] Validating found git in: "git"
+2025-04-26 22:17:45.186 [info] [main] Using git "2.39.5" from "git"
+2025-04-26 22:17:45.186 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-26 22:17:45.186 [info] > git rev-parse --show-toplevel [18ms]
+2025-04-26 22:17:45.186 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 22:17:45.186 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-04-26 22:17:46.403 [info] > git rev-parse --show-toplevel [7ms]
+2025-04-26 22:17:46.403 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 22:19:06.069 [info] > git rev-parse --show-toplevel [20ms]
+2025-04-26 22:19:06.069 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 22:19:08.855 [info] > git rev-parse --show-toplevel [3ms]
+2025-04-26 22:19:08.855 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-26 22:19:40.794 [info] > git rev-parse --show-toplevel [7ms]
+2025-04-26 22:19:40.794 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-28 12:23:07.421 [info] > git rev-parse --show-toplevel [5ms]
+2025-04-28 12:23:07.421 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-28 12:30:21.869 [info] > git rev-parse --show-toplevel [8ms]
+2025-04-28 12:30:21.869 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-04-29 10:18:07.296 [info] > git rev-parse --show-toplevel [1ms]
+2025-04-29 10:18:24.116 [info] > git rev-parse --show-toplevel [4ms]
+2025-04-29 10:18:24.129 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-04-29 10:18:24.145 [info] [Model][openRepository] Opened repository: /home/harleywolfley
+2025-04-29 10:18:24.188 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-04-29 10:18:24.188 [warning] [Git][getBranch] No such branch: main
+2025-04-29 10:18:24.188 [info] > git config --get commit.template [19ms]
+2025-04-29 10:18:24.249 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [10ms]
+2025-04-29 10:18:24.634 [info] > git show --textconv :spring25/itm101/01prove.py [21ms]
+2025-04-29 10:18:24.634 [info] > git ls-files --stage -- spring25/itm101/01prove.py [1ms]
+2025-04-29 10:18:24.676 [info] > git hash-object -t tree /dev/null [1ms]
+2025-04-29 10:18:24.676 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/itm101/01prove.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fitm101%2F01prove.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:18:24.681 [info] > git hash-object -t tree /dev/null [34ms]
+2025-04-29 10:18:24.682 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/itm101/01prove.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fitm101%2F01prove.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:18:24.909 [info] > git check-ignore -v -z --stdin [2ms]
+2025-04-29 10:18:25.536 [info] > git status -z -uall [1332ms] (cancelled)
+2025-04-29 10:18:28.704 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3174ms]
+2025-04-29 10:18:28.704 [warning] [Git][getBranch] No such branch: main
+2025-04-29 10:18:28.705 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2025-04-29 10:18:28.748 [info] > git config --get commit.template [43ms]
+2025-04-29 10:18:28.795 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-04-29 10:18:28.795 [warning] [Git][getBranch] No such branch: main
+2025-04-29 10:18:28.868 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [4ms]
+2025-04-29 10:18:32.136 [info] > git status -z -uall [3312ms] (cancelled)
+2025-04-29 10:21:50.179 [info] > git show --textconv :spring25/cse110/02prove.py [18ms]
+2025-04-29 10:21:50.180 [info] > git ls-files --stage -- spring25/cse110/02prove.py [3ms]
+2025-04-29 10:21:50.182 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/02prove.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prove.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:21:50.183 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/02prove.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prove.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:21:50.547 [info] > git check-ignore -v -z --stdin [2ms]
+2025-04-29 10:21:53.621 [info] > git show --textconv :spring25/cse110/02prepare.py [17ms]
+2025-04-29 10:21:53.621 [info] > git ls-files --stage -- spring25/cse110/02prepare.py [2ms]
+2025-04-29 10:21:53.622 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/02prepare.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prepare.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:21:53.625 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/02prepare.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prepare.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:24:40.577 [info] > git show --textconv :spring25/cse110/cseindex.html [47ms]
+2025-04-29 10:24:40.583 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:24:40.586 [info] > git ls-files --stage -- spring25/cse110/cseindex.html [10ms]
+2025-04-29 10:24:40.587 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:24:40.820 [info] > git check-ignore -v -z --stdin [4ms]
+2025-04-29 10:27:33.326 [info] > git show --textconv :spring25/cse110/csestyle.css [1ms]
+2025-04-29 10:27:33.339 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/csestyle.css.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcsestyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:27:33.380 [info] > git ls-files --stage -- spring25/cse110/csestyle.css [19ms]
+2025-04-29 10:27:33.381 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/csestyle.css.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcsestyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:27:33.729 [info] > git check-ignore -v -z --stdin [4ms]
+2025-04-29 10:27:39.053 [info] > git show --textconv :spring25/cse110/cseindex.html [22ms]
+2025-04-29 10:27:39.054 [info] > git ls-files --stage -- spring25/cse110/cseindex.html [2ms]
+2025-04-29 10:27:39.055 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:27:39.057 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:28:22.836 [info] > git show --textconv :spring25/cse110/csestyle.css [2ms]
+2025-04-29 10:28:22.837 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/csestyle.css.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcsestyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:28:22.847 [info] > git ls-files --stage -- spring25/cse110/csestyle.css [2ms]
+2025-04-29 10:28:22.850 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/csestyle.css.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcsestyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:28:52.452 [info] > git show --textconv :spring25/cse110/02prepare.py [9ms]
+2025-04-29 10:28:52.452 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/02prepare.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prepare.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:28:52.453 [info] > git ls-files --stage -- spring25/cse110/02prepare.py [2ms]
+2025-04-29 10:28:52.454 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/02prepare.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prepare.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:28:54.636 [info] > git show --textconv :spring25/cse110/cseindex.html [26ms]
+2025-04-29 10:28:54.636 [info] > git ls-files --stage -- spring25/cse110/cseindex.html [1ms]
+2025-04-29 10:28:54.637 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:28:54.637 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:29:20.827 [info] > git show --textconv :spring25/cse110/csestyle.css [0ms]
+2025-04-29 10:29:20.827 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/csestyle.css.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcsestyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:29:20.861 [info] > git ls-files --stage -- spring25/cse110/csestyle.css [12ms]
+2025-04-29 10:29:20.861 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/csestyle.css.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcsestyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:30:10.024 [info] > git show --textconv :spring25/cse110/cseindex.html [1ms]
+2025-04-29 10:30:10.042 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:30:10.064 [info] > git ls-files --stage -- spring25/cse110/cseindex.html [9ms]
+2025-04-29 10:30:10.064 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:32:19.716 [info] > git show --textconv :spring25/cse110/csestyle.css [10ms]
+2025-04-29 10:32:19.717 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/csestyle.css.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcsestyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:32:19.721 [info] > git ls-files --stage -- spring25/cse110/csestyle.css [6ms]
+2025-04-29 10:32:19.721 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/csestyle.css.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcsestyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:39:20.628 [info] > git show --textconv :spring25/cse110/cseindex.html [17ms]
+2025-04-29 10:39:20.629 [info] > git ls-files --stage -- spring25/cse110/cseindex.html [2ms]
+2025-04-29 10:39:20.629 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:39:20.630 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:39:58.084 [info] > git show --textconv :spring25/cse110/csestyle.css [15ms]
+2025-04-29 10:39:58.086 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/csestyle.css.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcsestyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:39:58.091 [info] > git ls-files --stage -- spring25/cse110/csestyle.css [7ms]
+2025-04-29 10:39:58.092 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/csestyle.css.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcsestyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:44:51.301 [info] > git show --textconv :spring25/cse110/02prove.py [25ms]
+2025-04-29 10:44:51.302 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/02prove.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prove.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:44:51.306 [info] > git ls-files --stage -- spring25/cse110/02prove.py [9ms]
+2025-04-29 10:44:51.307 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/02prove.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prove.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:44:53.143 [info] > git show --textconv :spring25/cse110/02prepare.py [1ms]
+2025-04-29 10:44:53.144 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/02prepare.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prepare.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:44:53.188 [info] > git ls-files --stage -- spring25/cse110/02prepare.py [4ms]
+2025-04-29 10:44:53.189 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/02prepare.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prepare.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:45:19.098 [info] > git show --textconv :spring25/cse110/csestyle.css [2ms]
+2025-04-29 10:45:19.098 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/csestyle.css.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcsestyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:45:19.112 [info] > git ls-files --stage -- spring25/cse110/csestyle.css [1ms]
+2025-04-29 10:45:19.113 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/csestyle.css.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcsestyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:48:44.252 [info] > git show --textconv :spring25/cse110/02prepare.py [28ms]
+2025-04-29 10:48:44.253 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/02prepare.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prepare.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:48:44.255 [info] > git ls-files --stage -- spring25/cse110/02prepare.py [4ms]
+2025-04-29 10:48:44.256 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/02prepare.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prepare.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:59:06.896 [info] > git show --textconv :spring25/cse110/cseindex.html [0ms]
+2025-04-29 10:59:06.897 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-29 10:59:06.912 [info] > git ls-files --stage -- spring25/cse110/cseindex.html [3ms]
+2025-04-29 10:59:06.913 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 11:22:56.125 [info] > git show --textconv :spring25/cse110/02prove.py [50ms]
+2025-04-30 11:22:56.127 [info] > git ls-files --stage -- spring25/cse110/02prove.py [8ms]
+2025-04-30 11:22:56.129 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/02prove.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prove.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 11:22:56.137 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/02prove.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prove.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 11:22:57.455 [info] > git show --textconv :spring25/cse110/cseindex.html [1ms]
+2025-04-30 11:22:57.461 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 11:22:57.509 [info] > git ls-files --stage -- spring25/cse110/cseindex.html [13ms]
+2025-04-30 11:22:57.516 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 11:22:58.258 [info] > git show --textconv :spring25/cse110/02prepare.py [22ms]
+2025-04-30 11:22:58.260 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/02prepare.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prepare.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 11:22:58.261 [info] > git ls-files --stage -- spring25/cse110/02prepare.py [5ms]
+2025-04-30 11:22:58.261 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/02prepare.py.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2F02prepare.py%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 11:22:59.380 [info] > git show --textconv :spring25/cse110/cseindex.html [15ms]
+2025-04-30 11:22:59.380 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 11:22:59.384 [info] > git ls-files --stage -- spring25/cse110/cseindex.html [5ms]
+2025-04-30 11:22:59.384 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/cseindex.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcseindex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 11:23:01.840 [info] > git show --textconv :spring25/cse110/csestyle.css [35ms]
+2025-04-30 11:23:01.841 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/csestyle.css.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcsestyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 11:23:01.842 [info] > git ls-files --stage -- spring25/cse110/csestyle.css [4ms]
+2025-04-30 11:23:01.843 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/csestyle.css.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fcsestyle.css%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 11:23:05.223 [info] > git show --textconv :spring25/itm101/bot.js [23ms]
+2025-04-30 11:23:05.225 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/itm101/bot.js.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fitm101%2Fbot.js%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 11:23:05.228 [info] > git ls-files --stage -- spring25/itm101/bot.js [11ms]
+2025-04-30 11:23:05.229 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/itm101/bot.js.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fitm101%2Fbot.js%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 11:23:24.199 [info] > git show --textconv :spring25/itm101/hello.js [28ms]
+2025-04-30 11:23:24.199 [info] > git ls-files --stage -- spring25/itm101/hello.js [1ms]
+2025-04-30 11:23:24.200 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/itm101/hello.js.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fitm101%2Fhello.js%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 11:23:24.201 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/itm101/hello.js.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fitm101%2Fhello.js%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 11:23:24.530 [info] > git check-ignore -v -z --stdin [3ms]
+2025-04-30 12:01:58.532 [info] > git check-ignore -v -z --stdin [14ms]
+2025-04-30 12:02:24.464 [info] > git check-ignore -v -z --stdin [11ms]
+2025-04-30 12:03:10.791 [info] > git check-ignore -v -z --stdin [5ms]
+2025-04-30 12:03:35.761 [info] > git show --textconv :spring25/cse110/asdf.js [26ms]
+2025-04-30 12:03:35.769 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/asdf.js.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fasdf.js%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 12:03:35.771 [info] > git ls-files --stage -- spring25/cse110/asdf.js [12ms]
+2025-04-30 12:03:35.773 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/asdf.js.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fasdf.js%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 12:03:35.887 [info] > git check-ignore -v -z --stdin [2ms]
+2025-04-30 12:04:59.753 [info] > git show --textconv :spring25/itm101/hello.js [20ms]
+2025-04-30 12:04:59.753 [info] > git ls-files --stage -- spring25/itm101/hello.js [9ms]
+2025-04-30 12:04:59.753 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/itm101/hello.js.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fitm101%2Fhello.js%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 12:04:59.755 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/itm101/hello.js.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fitm101%2Fhello.js%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 12:05:17.212 [info] > git show --textconv :spring25/cse110/asdf.js [0ms]
+2025-04-30 12:05:17.214 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/asdf.js.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fasdf.js%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 12:05:17.232 [info] > git ls-files --stage -- spring25/cse110/asdf.js [2ms]
+2025-04-30 12:05:17.233 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/asdf.js.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fasdf.js%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 12:10:43.329 [info] > git show --textconv :spring25/itm101/hello.js [4ms]
+2025-04-30 12:10:43.332 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/itm101/hello.js.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fitm101%2Fhello.js%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 12:10:43.374 [info] > git ls-files --stage -- spring25/itm101/hello.js [11ms]
+2025-04-30 12:10:43.375 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/itm101/hello.js.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fitm101%2Fhello.js%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 12:52:30.060 [info] > git show --textconv :spring25/cse110/asdf.js [0ms]
+2025-04-30 12:52:30.061 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/cse110/asdf.js.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fasdf.js%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 12:52:30.096 [info] > git ls-files --stage -- spring25/cse110/asdf.js [8ms]
+2025-04-30 12:52:30.097 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/cse110/asdf.js.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fcse110%2Fasdf.js%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 12:52:48.676 [info] > git show --textconv :spring25/wdd130/index.html [16ms]
+2025-04-30 12:52:48.678 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/wdd130/index.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Findex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 12:52:48.688 [info] > git ls-files --stage -- spring25/wdd130/index.html [12ms]
+2025-04-30 12:52:48.692 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/wdd130/index.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Findex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 12:55:12.356 [info] [main] Log level: Info
+2025-04-30 12:55:12.356 [info] [main] Validating found git in: "git"
+2025-04-30 12:55:12.356 [info] [main] Using git "2.39.5" from "git"
+2025-04-30 12:55:12.356 [info] [Model][doInitialScan] Initial repository scan started
+2025-04-30 12:55:12.356 [info] > git rev-parse --show-toplevel [527ms]
+2025-04-30 12:55:12.403 [info] > git rev-parse --git-dir --git-common-dir [138ms]
+2025-04-30 12:55:12.438 [info] [Model][openRepository] Opened repository: /home/harleywolfley
+2025-04-30 12:55:12.541 [info] > git rev-parse --show-toplevel [24ms]
+2025-04-30 12:55:12.556 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-04-30 12:55:12.557 [info] > git config --get commit.template [68ms]
+2025-04-30 12:55:12.663 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [33ms]
+2025-04-30 12:55:12.663 [warning] [Git][getBranch] No such branch: main
+2025-04-30 12:55:12.762 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [20ms]
+2025-04-30 12:55:12.792 [info] > git show --textconv :spring25/wdd130/index.html [12ms]
+2025-04-30 12:55:12.886 [info] > git ls-files --stage -- spring25/wdd130/index.html [7ms]
+2025-04-30 12:55:12.898 [info] > git hash-object -t tree /dev/null [73ms]
+2025-04-30 12:55:12.898 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/wdd130/index.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Findex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 12:55:12.916 [info] > git hash-object -t tree /dev/null [19ms]
+2025-04-30 12:55:12.917 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/wdd130/index.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Findex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 12:55:13.055 [info] > git check-ignore -v -z --stdin [8ms]
+2025-04-30 12:55:13.621 [info] > git status -z -uall [920ms] (cancelled)
+2025-04-30 12:55:16.066 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2496ms]
+2025-04-30 12:55:16.066 [warning] [Git][getBranch] No such branch: main
+2025-04-30 12:55:16.066 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for main: Error: No such branch: main.
+2025-04-30 12:55:16.169 [info] > git config --get commit.template [119ms]
+2025-04-30 12:55:16.243 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-04-30 12:55:16.243 [warning] [Git][getBranch] No such branch: main
+2025-04-30 12:55:16.344 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [34ms]
+2025-04-30 12:55:16.706 [info] > git status -z -uall [443ms] (cancelled)
+2025-04-30 12:55:21.552 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-04-30 12:55:21.552 [warning] [Git][getBranch] No such branch: main
+2025-04-30 12:55:21.552 [info] > git config --get commit.template [58ms]
+2025-04-30 12:55:21.573 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-04-30 12:55:23.849 [info] > git status -z -uall [2286ms] (cancelled)
+2025-04-30 12:59:39.272 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [2ms]
+2025-04-30 12:59:39.272 [info] fatal: bad revision 'refs/heads/main'
+2025-04-30 12:59:39.277 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-04-30 12:59:41.110 [info] > git check-ignore -v -z --stdin [2ms]
+2025-04-30 12:59:50.680 [info] > git check-ignore -v -z --stdin [9ms]
+2025-04-30 12:59:52.285 [info] > git check-ignore -v -z --stdin [3ms]
+2025-04-30 12:59:56.658 [info] > git check-ignore -v -z --stdin [6ms]
+2025-04-30 12:59:57.556 [info] > git check-ignore -v -z --stdin [21ms]
+2025-04-30 13:02:13.155 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [2ms]
+2025-04-30 13:02:13.155 [info] fatal: bad revision 'refs/heads/main'
+2025-04-30 13:02:13.156 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-04-30 13:02:29.471 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [1ms]
+2025-04-30 13:02:29.471 [info] fatal: bad revision 'refs/heads/main'
+2025-04-30 13:02:29.471 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-04-30 13:02:32.350 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [19ms]
+2025-04-30 13:02:32.350 [info] fatal: bad revision 'refs/heads/main'
+2025-04-30 13:02:32.351 [error] [GitHistoryProvider][provideHistoryItems] Failed to get history items with options '{"historyItemRefs":["refs/heads/main"],"limit":50,"skip":0}': Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "log",
+  "stdout": "",
+  "stderr": "fatal: bad revision 'refs/heads/main'\n"
+}
+2025-04-30 13:02:51.307 [info] > git check-ignore -v -z --stdin [7ms]
+2025-04-30 13:02:52.810 [info] > git check-ignore -v -z --stdin [15ms]
+2025-04-30 13:03:16.321 [info] > git show --textconv :spring25/wdd130/index.html [16ms]
+2025-04-30 13:03:16.322 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/wdd130/index.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Findex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 13:03:16.326 [info] > git ls-files --stage -- spring25/wdd130/index.html [6ms]
+2025-04-30 13:03:16.327 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/wdd130/index.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Findex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 13:03:19.745 [info] > git check-ignore -v -z --stdin [6ms]
+2025-04-30 13:03:22.096 [info] > git check-ignore -v -z --stdin [16ms]
+2025-04-30 13:03:23.766 [info] > git check-ignore -v -z --stdin [17ms]
+2025-04-30 13:06:34.406 [info] > git config --get commit.template [12ms]
+2025-04-30 13:06:34.428 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2025-04-30 13:06:34.428 [warning] [Git][getBranch] No such branch: main
+2025-04-30 13:06:34.463 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-04-30 13:06:36.282 [info] > git status -z -uall [1835ms] (cancelled)
+2025-04-30 13:07:16.524 [info] > git config --get commit.template [11ms]
+2025-04-30 13:07:16.526 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-04-30 13:07:16.582 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-04-30 13:07:18.291 [info] > git status -z -uall [1727ms] (cancelled)
+2025-04-30 13:12:07.307 [info] > git show --textconv :spring25/wdd130/index.html [21ms]
+2025-04-30 13:12:07.307 [info] > git ls-files --stage -- spring25/wdd130/index.html [1ms]
+2025-04-30 13:12:07.309 [warning] [GitFileSystemProvider][stat] File not found - git:/home/harleywolfley/spring25/wdd130/index.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Findex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 13:12:07.310 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/harleywolfley/spring25/wdd130/index.html.git?%7B%22path%22%3A%22%2Fhome%2Fharleywolfley%2Fspring25%2Fwdd130%2Findex.html%22%2C%22ref%22%3A%22%22%7D
+2025-04-30 13:12:07.408 [info] > git blame --root --incremental e08e3346f069b225f421693498a3241d2d3e3eaf -- spring25/wdd130/index.html [10ms]
+2025-04-30 13:12:07.408 [info] fatal: no such path spring25/wdd130/index.html in e08e3346f069b225f421693498a3241d2d3e3eaf

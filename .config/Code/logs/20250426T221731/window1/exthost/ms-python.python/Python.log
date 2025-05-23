@@ -1,0 +1,23 @@
+2025-04-26 22:17:45.124 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-26 22:17:45.124 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-26 22:17:45.124 [info] Python interpreter path: /bin/python3
+2025-04-26 22:17:48.341 [info] Starting Pylance language server.
+2025-04-26 22:18:19.271 [info] CreateEnv Trigger - Workspace not found for /home/harleywolfley/spring25/itm101/01prove.py
+2025-04-30 12:55:12.162 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-30 12:55:12.162 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-30 12:55:12.162 [warning] Dir "/home/harleywolfley/spring25/wdd130/.pixi/envs" is not watchable (directory does not exist)
+2025-04-30 12:55:12.162 [info] Starting Environment refresh
+2025-04-30 12:55:12.162 [info] > hatch env show --json
+2025-04-30 12:55:12.162 [info] cwd: .
+2025-04-30 12:55:12.162 [info] Python interpreter path: /bin/python3
+2025-04-30 12:55:12.163 [info] Starting Environment refresh
+2025-04-30 12:55:12.953 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-30 12:55:12.953 [info] Environments refresh paths discovered: 3182 milliseconds
+2025-04-30 12:55:12.956 [info] Environments refresh paths discovered: 793 milliseconds
+2025-04-30 12:55:13.623 [info] Environments refresh finished (event): 3852 milliseconds
+2025-04-30 12:55:13.623 [info] Environments refresh finished (event): 1460 milliseconds
+2025-04-30 12:55:16.064 [info] Environment refresh took 6294 milliseconds
+2025-04-30 12:55:16.065 [info] Environment refresh took 3902 milliseconds
+2025-04-30 12:55:16.168 [info] > pyenv which python
+2025-04-30 12:55:16.168 [info] cwd: .
+2025-04-30 12:55:20.905 [info] Starting Pylance language server.

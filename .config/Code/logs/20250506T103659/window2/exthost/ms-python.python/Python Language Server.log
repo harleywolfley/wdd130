@@ -1,0 +1,39 @@
+2025-05-06 21:50:43.572 [info] (Client) Pylance async client (2025.4.1) started with python extension (2025.4.0)
+2025-05-06 21:50:45.226 [info] [Info  - 9:50:45 PM] (2478) Server root directory: file:///home/harleywolfley/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-06 21:50:45.226 [info] [Info  - 9:50:45 PM] (2478) Pylance language server 2025.4.1 (pyright version 1.1.398, commit 4f24eccc) starting
+2025-05-06 21:50:45.233 [info] [Info  - 9:50:45 PM] (2478) Starting service instance "itm101" for workspace "/home/harleywolfley/spring25/itm101"
+2025-05-06 21:50:45.626 [info] [Info  - 9:50:45 PM] (2478) Setting environmentName for service "itm101": "3.11.2 (global)"
+2025-05-06 21:50:45.626 [info] [Info  - 9:50:45 PM] (2478) Setting pythonPath for service "itm101": "/bin/python3"
+2025-05-06 21:50:45.760 [info] [Info  - 9:50:45 PM] (2478) No include entries specified; assuming /home/harleywolfley/spring25/itm101
+2025-05-06 21:50:45.802 [info] [Info  - 9:50:45 PM] (2478) Auto-excluding **/node_modules
+2025-05-06 21:50:45.803 [info] [Info  - 9:50:45 PM] (2478) Auto-excluding **/__pycache__
+2025-05-06 21:50:45.804 [info] [Info  - 9:50:45 PM] (2478) Auto-excluding **/.*
+2025-05-06 21:50:46.125 [info] [Info  - 9:50:46 PM] (2478) Assuming Python version 3.11.2.final.0
+2025-05-06 21:50:46.673 [info] [Info  - 9:50:46 PM] (2478) Found 3 source files
+2025-05-06 21:50:46.866 [info] [Info  - 9:50:46 PM] (2478) Setting environmentName for service "itm101": "3.11.2 (global)"
+2025-05-06 21:50:46.866 [info] [Info  - 9:50:46 PM] (2478) Setting pythonPath for service "itm101": "/bin/python3"
+2025-05-06 21:50:46.866 [info] [Info  - 9:50:46 PM] (2478) No include entries specified; assuming /home/harleywolfley/spring25/itm101
+2025-05-06 21:50:46.867 [info] [Info  - 9:50:46 PM] (2478) Auto-excluding **/node_modules
+2025-05-06 21:50:46.867 [info] [Info  - 9:50:46 PM] (2478) Auto-excluding **/__pycache__
+2025-05-06 21:50:46.867 [info] [Info  - 9:50:46 PM] (2478) Auto-excluding **/.*
+2025-05-06 21:50:47.034 [info] [Info  - 9:50:47 PM] (2478) Assuming Python version 3.11.2.final.0
+2025-05-06 21:50:47.670 [info] [Info  - 9:50:47 PM] (2478) Found 3 source files
+2025-05-06 21:50:53.948 [info] [Info  - 9:50:53 PM] (2478) BG: Priority queue background worker(2) root directory: file:///home/harleywolfley/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-06 21:50:53.969 [info] [Info  - 9:50:53 PM] (2478) BG: Priority queue background worker(2) started
+2025-05-06 21:50:54.860 [info] [Info  - 9:50:54 PM] (2478) BG: Indexer background runner(3) root directory: file:///home/harleywolfley/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist (index)
+2025-05-06 21:50:54.862 [info] [Info  - 9:50:54 PM] (2478) BG: Indexing(3) started
+2025-05-06 21:50:57.217 [info] [Info  - 9:50:57 PM] (2478) BG: scanned(3) 9 files over 1 exec env
+2025-05-06 21:50:58.559 [info] [Info  - 9:50:58 PM] (2478) BG: indexed(3) 9 files over 1 exec env
+2025-05-06 21:50:58.574 [info] [Info  - 9:50:58 PM] (2478) BG: Indexing finished(3).
+2025-05-07 10:57:56.707 [info] [Info  - 10:57:56 AM] (2478) Starting service instance "<default>" for workspace ""
+2025-05-07 10:57:56.841 [info] [Info  - 10:57:56 AM] (2478) Setting environmentName for service "<default>": "3.11.2 (global)"
+2025-05-07 10:57:56.844 [info] [Info  - 10:57:56 AM] (2478) Setting pythonPath for service "<default>": "/bin/python3"
+2025-05-07 10:57:56.846 [info] [Info  - 10:57:56 AM] (2478) No include entries specified; assuming /<default workspace root>
+2025-05-07 10:57:56.848 [info] [Info  - 10:57:56 AM] (2478) Auto-excluding **/node_modules
+2025-05-07 10:57:56.849 [info] [Info  - 10:57:56 AM] (2478) Auto-excluding **/__pycache__
+2025-05-07 10:57:56.849 [info] [Info  - 10:57:56 AM] (2478) Auto-excluding **/.*
+2025-05-07 10:57:56.892 [info] [Info  - 10:57:56 AM] (2478) Assuming Python version 3.11.2.final.0
+2025-05-07 10:57:57.057 [info] [Error - 10:57:57 AM] (2478) File or directory "/<default workspace root>" does not exist.
+2025-05-07 10:57:57.058 [info] [Info  - 10:57:57 AM] (2478) No source files found.
+2025-05-07 10:57:58.618 [info] [Info  - 10:57:58 AM] (2478) BG: Priority queue background worker(5) root directory: file:///home/harleywolfley/.vscode/extensions/ms-python.vscode-pylance-2025.4.1/dist
+2025-05-07 10:57:58.621 [info] [Info  - 10:57:58 AM] (2478) BG: Priority queue background worker(5) started

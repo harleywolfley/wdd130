@@ -1,0 +1,32 @@
+2025-04-23 20:07:59.462 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-23 20:07:59.462 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-23 20:07:59.576 [info] Starting Environment refresh
+2025-04-23 20:07:59.576 [info] Searching for interpreters in posix paths locator
+2025-04-23 20:07:59.591 [info] Searching for pyenv environments
+2025-04-23 20:07:59.591 [info] Searching for conda environments
+2025-04-23 20:07:59.592 [info] Searching for global virtual environments
+2025-04-23 20:07:59.592 [info] Searching for custom virtual environments
+2025-04-23 20:07:59.602 [info] pyenv is not installed
+2025-04-23 20:07:59.602 [info] Finished searching for pyenv environments: 25 milliseconds
+2025-04-23 20:07:59.609 [info] Finished searching for custom virtual envs: 30 milliseconds
+2025-04-23 20:07:59.652 [info] > conda info --json
+2025-04-23 20:07:59.666 [info] Finished searching for global virtual envs: 88 milliseconds
+2025-04-23 20:07:59.691 [info] Found: /bin/python3 --> /bin/python3.11
+2025-04-23 20:07:59.692 [info] Found: /bin/python3.11 --> /bin/python3.11
+2025-04-23 20:07:59.706 [info] Found: /usr/bin/python3 --> /usr/bin/python3.11
+2025-04-23 20:07:59.706 [info] Found: /usr/bin/python3.11 --> /usr/bin/python3.11
+2025-04-23 20:07:59.743 [info] Finished searching for interpreters in posix paths locator: 164 milliseconds
+2025-04-23 20:07:59.743 [info] > /bin/python3 -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-23 20:07:59.870 [info] > /usr/bin/python3 -I ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2025.4.0-linux-x64/python_files/interpreterInfo.py
+2025-04-23 20:07:59.870 [info] Environments refresh paths discovered (event): 302 milliseconds
+2025-04-23 20:07:59.870 [info] Environments refresh paths discovered: 302 milliseconds
+2025-04-23 20:07:59.946 [info] Environments refresh finished (event): 378 milliseconds
+2025-04-23 20:07:59.955 [info] Environment refresh took 386 milliseconds
+2025-04-23 20:08:00.027 [info] Python interpreter path: /bin/python3
+2025-04-23 20:08:01.557 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
+2025-04-23 20:08:01.571 [info] Shell integration status changed, can confirm it's working.
+2025-04-23 20:08:03.760 [info] Starting Pylance language server.
+2025-04-23 20:09:36.555 [info] CreateEnv Trigger - Workspace not found for /home/harleywolfley/spring25/wdd130/helloworld.py
+2025-04-23 20:09:37.201 [info] Send text to terminal: /bin/python3 /home/harleywolfley/spring25/wdd130/helloworld.py
+2025-04-24 10:22:57.755 [info] Send text to terminal: /bin/python3 /home/harleywolfley/spring25/itm101/asdf.py
+2025-04-25 18:59:58.302 [info] Send text to terminal: /bin/python3 /home/harleywolfley/spring25/cse110/02prove.py

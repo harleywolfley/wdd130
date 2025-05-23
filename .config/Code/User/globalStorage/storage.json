@@ -1,0 +1,80 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "dc88178f3b9497406a50a2d2199b1532db5960c250753facb49a44166007466a",
+    "telemetry.devDeviceId": "4a0c0960-4b53-44a2-ac0b-274d13131c76",
+    "backupWorkspaces": {
+        "workspaces": [
+            {
+                "id": "c4b5a01a1320f916ec9fd15c7d74e796",
+                "configURIPath": "file:///home/harleywolfley/.config/Code/Workspaces/1746039301466/workspace.json"
+            }
+        ],
+        "folders": [
+            {
+                "folderUri": "file:///home/harleywolfley/spring25/itm101"
+            },
+            {
+                "folderUri": "vscode-vfs://github/kianlamer/css-library"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1746656990328"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/harleywolfley/spring25/itm101": "__default__profile__",
+            "vscode-vfs://github/kianlamer/css-library": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1746656990328": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 276,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "vscode-vfs://github/kianlamer/css-library",
+            "backupPath": "/home/harleywolfley/.config/Code/Backups/4cb0ac26a9d3cb23c0c35f3c07679572",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1536,
+                "height": 864
+            }
+        },
+        "openedWindows": []
+    }
+}

@@ -1,0 +1,106 @@
+2025-05-07 18:04:12.636 [warning] Running on the desktop; workspaceId=c4b5a01a1320f916ec9fd15c7d74e796; storageUri=vscode-userdata:/home/harleywolfley/.config/Code/User/globalStorage/github.remotehub
+2025-05-07 18:04:12.636 [info] [    2] ChangeStore.getWorkspacesWithChanges()
+2025-05-07 18:04:12.636 [info] [    2] ChangeStore.getWorkspacesWithChanges() took 0 ms
+2025-05-07 18:04:18.467 [info] [    8] GitHub.ensureAuthenticated
+2025-05-07 18:04:23.196 [warning] [    8] GitHub.ensureAuthenticated took 4734 ms
+2025-05-07 18:04:57.944 [warning] Running on the desktop; workspaceId=4cb0ac26a9d3cb23c0c35f3c07679572; storageUri=vscode-userdata:/home/harleywolfley/.config/Code/User/globalStorage/github.remotehub
+2025-05-07 18:04:57.944 [info] [    2] ChangeStore.getWorkspacesWithChanges()
+2025-05-07 18:04:57.944 [info] [    6] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.vscode/settings.json)
+2025-05-07 18:04:57.944 [info] [    8] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.vscode/tasks.json)
+2025-05-07 18:04:57.944 [info] [   10] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.vscode/launch.json)
+2025-05-07 18:04:57.944 [info] [   12] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.vscode/mcp.json)
+2025-05-07 18:04:57.944 [info] [   21] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.git/config)
+2025-05-07 18:04:57.944 [info] [   23] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.vscode/extensions.json)
+2025-05-07 18:04:57.944 [info] [   25] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.cursor/mcp.json)
+2025-05-07 18:04:57.944 [info] [    6] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.vscode/settings.json): Not found; no operations
+2025-05-07 18:04:57.944 [info] [    8] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.vscode/tasks.json): Not found; no operations
+2025-05-07 18:04:57.944 [info] [    6] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.vscode/settings.json) took 27 ms
+2025-05-07 18:04:57.944 [info] [   10] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.vscode/launch.json): Not found; no operations
+2025-05-07 18:04:57.944 [info] [    8] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.vscode/tasks.json) took 28 ms
+2025-05-07 18:04:57.944 [info] [   12] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.vscode/mcp.json): Not found; no operations
+2025-05-07 18:04:57.944 [info] [    2] ChangeStore.getWorkspacesWithChanges() took 66 ms
+2025-05-07 18:04:57.944 [info] [   10] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.vscode/launch.json) took 28 ms
+2025-05-07 18:04:57.944 [info] [   12] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.vscode/mcp.json) took 28 ms
+2025-05-07 18:04:57.944 [info] [   21] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.git/config): Not found; no operations
+2025-05-07 18:04:57.944 [info] [   23] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.vscode/extensions.json): Not found; no operations
+2025-05-07 18:04:57.944 [info] [   21] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.git/config) took 30 ms
+2025-05-07 18:04:57.944 [info] [   25] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.cursor/mcp.json): Not found; no operations
+2025-05-07 18:04:57.944 [info] [   23] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.vscode/extensions.json) took 30 ms
+2025-05-07 18:04:57.944 [info] [   25] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/.cursor/mcp.json) took 31 ms
+2025-05-07 18:04:57.944 [info] [   36] GitHub.createMetadata(vscode-vfs://github/kianlamer/css-library, undefined)
+2025-05-07 18:04:57.944 [info] Parsed metadata for vscode-vfs://github/kianlamer/css-library: name kianlamer/css-library, owner kianlamer, name css-library, ref undefined
+2025-05-07 18:04:57.944 [info] [   37] GitHub.ensureAuthenticated
+2025-05-07 18:04:57.944 [info] [   38] GitHub.sync(vscode-vfs://github/kianlamer/css-library, resolution=0, to=undefined)
+2025-05-07 18:04:57.944 [info] [   39] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=true, to=undefined)
+2025-05-07 18:04:57.944 [info] [   40] GitHub.sync(vscode-vfs://github/kianlamer/css-library, resolution=0, to=undefined)
+2025-05-07 18:04:57.944 [info] [   41] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=true, to=undefined)
+2025-05-07 18:05:32.081 [warning] [   37] GitHub.ensureAuthenticated took 34619 ms
+2025-05-07 18:05:32.776 [info] [   36] GitHub.createMetadata(vscode-vfs://github/kianlamer/css-library, undefined) • Prefetching tree for d7fe12179aa0df9a69828fba9cb3dfea0880ec96...
+2025-05-07 18:05:32.776 [info] [   43] GitHub.createFileTree(github://github/kianlamer/css-library:d7fe12179aa0df9a69828fba9cb3dfea0880ec96)
+2025-05-07 18:05:32.776 [info] [   44] FileTree.load(d7fe12179aa0df9a69828fba9cb3dfea0880ec96:undefined)
+2025-05-07 18:05:32.778 [info] [   45] FileTree.load(d7fe12179aa0df9a69828fba9cb3dfea0880ec96:)
+2025-05-07 18:05:32.779 [info] [   46] FileTree.load(d7fe12179aa0df9a69828fba9cb3dfea0880ec96:.vscode)
+2025-05-07 18:05:32.781 [info] [   43] GitHub.createFileTree(github://github/kianlamer/css-library:d7fe12179aa0df9a69828fba9cb3dfea0880ec96) took 0 ms
+2025-05-07 18:05:32.781 [warning] [   36] GitHub.createMetadata(vscode-vfs://github/kianlamer/css-library, undefined) took 35317 ms • HEAD=d7fe12179aa0df9a69828fba9cb3dfea0880ec96
+2025-05-07 18:05:33.195 [error] /home/harleywolfley/.vscode/extensions/github.remotehub-0.64.0/dist/extension.js:160:26289
+HttpError: Not Found
+2025-05-07 18:05:33.195 [info] [   46] FileTree.load(d7fe12179aa0df9a69828fba9cb3dfea0880ec96:.vscode) took 418 ms (Tree query took 418 ms)• Loading for path=.vscode failed; HttpError: Not Found
+2025-05-07 18:05:33.204 [info] [   44] FileTree.load(d7fe12179aa0df9a69828fba9cb3dfea0880ec96:undefined): Tree=d7fe12179aa0df9a69828fba9cb3dfea0880ec96; Tree query took 427 ms • Waiting for permissions...
+2025-05-07 18:05:33.204 [info] [   44] FileTree.load(d7fe12179aa0df9a69828fba9cb3dfea0880ec96:undefined) Permissions query took 0 ms • Filling trie...
+2025-05-07 18:05:33.204 [info] [   44] FileTree.load(d7fe12179aa0df9a69828fba9cb3dfea0880ec96:undefined) took 428 ms (Filling trie took 0 ms) • Tree=d7fe12179aa0df9a69828fba9cb3dfea0880ec96
+2025-05-07 18:05:33.215 [info] [   45] FileTree.load(d7fe12179aa0df9a69828fba9cb3dfea0880ec96:): Tree=d7fe12179aa0df9a69828fba9cb3dfea0880ec96; Tree query took 439 ms • Waiting for permissions...
+2025-05-07 18:05:33.216 [info] [   45] FileTree.load(d7fe12179aa0df9a69828fba9cb3dfea0880ec96:) Permissions query took 0 ms • Filling trie...
+2025-05-07 18:05:33.216 [info] [   45] FileTree.load(d7fe12179aa0df9a69828fba9cb3dfea0880ec96:) took 439 ms (Filling trie took 0 ms) • Tree=d7fe12179aa0df9a69828fba9cb3dfea0880ec96
+2025-05-07 18:05:33.218 [warning] [    1] Time to root directory took 35831 ms
+2025-05-07 18:05:33.229 [info] [   83] FileTree.loadAllContent(d7fe12179aa0df9a69828fba9cb3dfea0880ec96)
+2025-05-07 18:05:33.229 [info] [   84] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96)
+2025-05-07 18:05:33.230 [info] [   84] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96) • Getting .tar from memory...
+2025-05-07 18:05:33.230 [info] [   84] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2025-05-07 18:05:33.242 [warning] [   39] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=true, to=undefined) took 35778 ms • Up to date
+2025-05-07 18:05:33.242 [warning] [   38] GitHub.sync(vscode-vfs://github/kianlamer/css-library, resolution=0, to=undefined) took 35779 ms • to=d7fe12179aa0df9a69828fba9cb3dfea0880ec96
+2025-05-07 18:05:33.274 [warning] [   41] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=true, to=undefined) took 35810 ms • Up to date
+2025-05-07 18:05:33.274 [warning] [   40] GitHub.sync(vscode-vfs://github/kianlamer/css-library, resolution=0, to=undefined) took 35810 ms • to=d7fe12179aa0df9a69828fba9cb3dfea0880ec96
+2025-05-07 18:05:33.494 [info] [   84] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96) took 264 ms (Getting .tar from disk took 264 ms) • Skipped download
+2025-05-07 18:05:33.494 [info] [   83] FileTree.loadAllContent(d7fe12179aa0df9a69828fba9cb3dfea0880ec96) took 265 ms (Tar cache query took 265 ms) • No cached Tar
+2025-05-07 18:05:35.494 [info] [  231] getFileContents
+2025-05-07 18:05:35.496 [info] [  232] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96)
+2025-05-07 18:05:35.505 [info] [  232] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96) • Getting .tar from memory...
+2025-05-07 18:05:35.505 [info] [  232] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2025-05-07 18:05:35.543 [info] [  232] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96) took 47 ms (Getting .tar from disk took 47 ms) • Skipped download
+2025-05-07 18:05:35.766 [info] [  231] getFileContentsRetrieved harley.html from web took 271 ms
+2025-05-07 18:05:57.415 [info] [  236] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=undefined, to=undefined)
+2025-05-07 18:05:57.493 [info] [  237] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=undefined, to=undefined)
+2025-05-07 18:05:57.493 [info] [  237] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=undefined, to=undefined) took 0 ms • Unable to fetch branch tips
+2025-05-07 18:05:57.494 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2025-05-07 18:05:57.791 [info] [  236] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=undefined, to=undefined) took 376 ms • No changes detected
+2025-05-07 18:06:57.514 [info] [  248] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=undefined, to=undefined)
+2025-05-07 18:06:57.515 [info] [  248] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=undefined, to=undefined) took 0 ms • Unable to fetch branch tips
+2025-05-07 18:06:57.515 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2025-05-07 18:06:57.793 [info] [  249] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=undefined, to=undefined)
+2025-05-07 18:06:58.159 [info] [  249] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=undefined, to=undefined) took 367 ms • No changes detected
+2025-05-07 18:07:52.973 [info] [  253] ChangeStore.writeFile(vscode-vfs://github/kianlamer/css-library/harley.html) — 257, undefined
+2025-05-07 18:07:52.973 [info] [  255] ChangeStore.writeFileCore(vscode-vfs://github/kianlamer/css-library/harley.html) — 257, undefined
+2025-05-07 18:07:53.019 [info] [  255] ChangeStore.writeFileCore(vscode-vfs://github/kianlamer/css-library/harley.html) took 45 ms
+2025-05-07 18:07:53.020 [info] [  253] ChangeStore.writeFile(vscode-vfs://github/kianlamer/css-library/harley.html) took 47 ms
+2025-05-07 18:07:53.146 [info] [  274] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/harley.html)
+2025-05-07 18:07:53.151 [info] [  274] ChangeStore.readFile(vscode-vfs://github/kianlamer/css-library/harley.html) took 5 ms
+2025-05-07 18:07:57.519 [info] [  279] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=undefined, to=undefined)
+2025-05-07 18:07:57.519 [info] [  279] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=undefined, to=undefined) took 0 ms • Unable to fetch branch tips
+2025-05-07 18:07:57.519 [error] VirtualProviderError.SyncOrFetchError
+Error: Unable to fetch the repository
+2025-05-07 18:07:58.179 [info] [  280] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=undefined, to=undefined)
+2025-05-07 18:07:58.546 [info] [  280] GitHub.fetch(vscode-vfs://github/kianlamer/css-library, force=undefined, to=undefined) took 367 ms • No changes detected
+2025-05-07 18:07:59.461 [info] [  282] getFileContents
+2025-05-07 18:07:59.464 [info] [  283] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96)
+2025-05-07 18:07:59.465 [info] [  283] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96) • Getting .tar from memory...
+2025-05-07 18:07:59.465 [info] [  283] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2025-05-07 18:07:59.506 [info] [  283] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96) took 41 ms (Getting .tar from disk took 41 ms) • Skipped download
+2025-05-07 18:07:59.752 [info] [  282] getFileContentsRetrieved index.html from web took 288 ms
+2025-05-07 18:08:01.467 [info] [  288] getFileContents
+2025-05-07 18:08:01.468 [info] [  289] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96)
+2025-05-07 18:08:01.495 [info] [  289] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96) • Getting .tar from memory...
+2025-05-07 18:08:01.495 [info] [  289] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96): Not found • Getting .tar from memory took 0 ms • Getting .tar from disk...
+2025-05-07 18:08:01.573 [info] [  289] TarPit.getTar(github/kianlamer/css-library/d7fe12179aa0df9a69828fba9cb3dfea0880ec96) took 105 ms (Getting .tar from disk took 105 ms) • Skipped download
+2025-05-07 18:08:01.870 [info] [  288] getFileContentsRetrieved README.md from web took 403 ms

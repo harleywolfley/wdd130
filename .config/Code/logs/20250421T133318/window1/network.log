@@ -1,0 +1,8 @@
+2025-04-21 18:42:59.198 [error] #6: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2025-04-22 10:11:00.462 [error] #17: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2025-04-22 10:11:00.489 [error] #18: https://www.vscode-unpkg.net/_gallery/esbenp/prettier-vscode/latest - error GET Failed to fetch
+2025-04-22 10:11:00.494 [error] #19: https://www.vscode-unpkg.net/_gallery/ritwickdey/liveserver/latest - error GET Failed to fetch
+2025-04-22 21:22:33.379 [error] #31: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2025-04-23 10:32:08.803 [error] #58: https://main.vscode-cdn.net/extensions/chat.json - error GET Failed to fetch
+2025-04-23 10:32:08.804 [error] #59: https://www.vscode-unpkg.net/_gallery/esbenp/prettier-vscode/latest - error GET Failed to fetch
+2025-04-23 10:32:08.808 [error] #60: https://www.vscode-unpkg.net/_gallery/ritwickdey/liveserver/latest - error GET Failed to fetch

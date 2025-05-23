@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/harleywolfley/spring25/wdd130/index.html" added="2025-04-23T19:06:43.122070Z" modified="2025-04-30T18:52:47.916700Z" visited="2025-04-23T19:06:43.122071Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-04-30T18:52:47.916697Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/wdd130/asdf.css" added="2025-04-23T19:23:34.465409Z" modified="2025-04-23T19:23:34.465417Z" visited="2025-04-23T19:23:34.465412Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-04-23T19:23:34.465414Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/wdd130/helloworld.py" added="2025-04-24T02:09:13.283411Z" modified="2025-04-24T02:09:13.283488Z" visited="2025-04-24T02:09:13.283450Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-04-24T02:09:13.283456Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/itm101/asdf.py" added="2025-04-24T02:11:31.129020Z" modified="2025-04-24T02:11:31.129036Z" visited="2025-04-24T02:11:31.129022Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-04-24T02:11:31.129028Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/itm101/helloworld.py" added="2025-04-24T16:11:12.281853Z" modified="2025-04-30T21:31:01.153759Z" visited="2025-04-24T16:11:12.281854Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-04-30T21:31:01.153756Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/itm101/01prove.py" added="2025-04-24T17:02:10.511065Z" modified="2025-04-24T17:02:10.511082Z" visited="2025-04-24T17:02:10.511069Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-04-24T17:02:10.511075Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/cse110/02prove.py" added="2025-04-24T20:32:52.794330Z" modified="2025-05-01T16:34:28.590764Z" visited="2025-04-24T20:32:52.794332Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-01T16:34:28.590760Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/cse110/02prepare.py" added="2025-04-27T01:27:16.810213Z" modified="2025-04-27T01:27:16.810230Z" visited="2025-04-27T01:27:16.810215Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-04-27T01:27:16.810220Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/itm101/bot.js" added="2025-04-28T18:30:20.924913Z" modified="2025-04-28T18:30:20.924934Z" visited="2025-04-28T18:30:20.924917Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-04-28T18:30:20.924924Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/cse110/cseindex.html" added="2025-04-29T16:24:39.383000Z" modified="2025-05-06T16:38:39.655843Z" visited="2025-04-29T16:24:39.383002Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-06T16:38:39.655840Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/cse110/csestyle.css" added="2025-04-29T16:27:32.382774Z" modified="2025-05-06T16:55:20.928676Z" visited="2025-04-29T16:27:32.382775Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-06T16:55:20.928673Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/itm101/hello.js" added="2025-04-30T17:23:23.205741Z" modified="2025-04-30T17:23:23.205864Z" visited="2025-04-30T17:23:23.205811Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-04-30T17:23:23.205818Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/cse110/asdf.js" added="2025-04-30T18:03:34.539281Z" modified="2025-04-30T18:03:34.539299Z" visited="2025-04-30T18:03:34.539285Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-04-30T18:03:34.539292Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/wdd130" added="2025-04-30T18:55:01.328122Z" modified="2025-04-30T18:55:01.328127Z" visited="2025-04-30T18:55:01.328123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-04-30T18:55:01.328124Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/wdd130/style.css" added="2025-04-30T19:33:02.846590Z" modified="2025-04-30T19:33:02.846614Z" visited="2025-04-30T19:33:02.846592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-04-30T19:33:02.846596Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/itm101/mathHarleyWolfley.js" added="2025-04-30T21:56:19.343990Z" modified="2025-04-30T21:56:19.343997Z" visited="2025-04-30T21:56:19.343992Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-04-30T21:56:19.343994Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/itm101/aimath.js" added="2025-04-30T22:12:11.906935Z" modified="2025-04-30T22:12:11.906942Z" visited="2025-04-30T22:12:11.906937Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-04-30T22:12:11.906939Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/cse110/asd.py" added="2025-05-01T16:28:00.900021Z" modified="2025-05-01T16:28:00.900067Z" visited="2025-05-01T16:28:00.900022Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-01T16:28:00.900024Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/cse110/02prove2.py" added="2025-05-01T16:59:52.698243Z" modified="2025-05-01T16:59:52.698249Z" visited="2025-05-01T16:59:52.698245Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-01T16:59:52.698247Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/itm101/index.html" added="2025-05-01T23:13:21.366117Z" modified="2025-05-01T23:13:21.366130Z" visited="2025-05-01T23:13:21.366119Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-01T23:13:21.366123Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/wdd130/wwr/style.css" added="2025-05-02T21:56:53.488415Z" modified="2025-05-02T21:57:11.747019Z" visited="2025-05-02T21:56:53.488416Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-02T21:57:11.747016Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/itm101" added="2025-05-05T17:52:36.154251Z" modified="2025-05-07T22:36:35.376343Z" visited="2025-05-05T17:52:36.154252Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-07T22:36:35.376333Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/itm101/google-cloudshell-webserver/asdf.html" added="2025-05-05T17:53:04.415384Z" modified="2025-05-05T17:53:04.415394Z" visited="2025-05-05T17:53:04.415386Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-05T17:53:04.415389Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/cse110/notes.html" added="2025-05-06T16:37:57.705583Z" modified="2025-05-06T16:37:57.705599Z" visited="2025-05-06T16:37:57.705587Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-06T16:37:57.705592Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/cse110/assign/03prepare.py" added="2025-05-07T03:50:39.922511Z" modified="2025-05-07T03:50:39.922524Z" visited="2025-05-07T03:50:39.922513Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-07T03:50:39.922518Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/cse110/assign/04prove.py" added="2025-05-07T16:42:13.387114Z" modified="2025-05-07T16:42:13.387179Z" visited="2025-05-07T16:42:13.387152Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-07T16:42:13.387155Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/itm101/0302/style.css" added="2025-05-07T17:41:47.574173Z" modified="2025-05-07T17:41:47.574190Z" visited="2025-05-07T17:41:47.574177Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-07T17:41:47.574182Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/itm101/0302/script.js" added="2025-05-07T17:42:13.955863Z" modified="2025-05-07T17:42:13.955872Z" visited="2025-05-07T17:42:13.955864Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/javascript"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-07T17:42:13.955867Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/wdd130/wwr/index.html" added="2025-05-07T19:17:44.905038Z" modified="2025-05-07T19:17:44.905058Z" visited="2025-05-07T19:17:44.905041Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-07T19:17:44.905045Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/harleywolfley/spring25/wdd130/wdd130.code-workspace" added="2025-05-08T00:04:50.754454Z" modified="2025-05-08T00:04:50.754475Z" visited="2025-05-08T00:04:50.754455Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-code-workspace"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-05-08T00:04:50.754457Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

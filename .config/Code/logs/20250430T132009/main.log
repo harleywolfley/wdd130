@@ -1,0 +1,84 @@
+2025-04-30 13:20:09.483 [info] update#setState idle
+2025-04-30 13:20:39.514 [info] update#setState checking for updates
+2025-04-30 13:20:39.584 [info] update#setState idle
+2025-04-30 14:16:57.871 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-30 14:20:39.072 [info] update#setState checking for updates
+2025-04-30 14:20:39.300 [info] update#setState idle
+2025-04-30 15:18:04.646 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-30 15:20:39.683 [info] update#setState checking for updates
+2025-04-30 15:20:39.851 [info] update#setState idle
+2025-04-30 15:52:22.238 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-30 16:20:38.878 [info] update#setState checking for updates
+2025-04-30 16:20:39.476 [info] update#setState idle
+2025-04-30 21:59:37.347 [warning] No ptyHost heartbeat after 6 seconds
+2025-04-30 21:59:37.494 [info] update#setState checking for updates
+2025-04-30 21:59:45.028 [info] update#setState idle
+2025-05-01 10:17:52.202 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-01 10:17:52.202 [info] update#setState checking for updates
+2025-05-01 10:17:52.812 [error] #8: https://update.code.visualstudio.com/api/update/linux-x64/stable/17baf841131aa23349f217ca7c570c76ee87b957 - error undefined net::ERR_NETWORK_CHANGED
+2025-05-01 10:17:52.821 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118774)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-05-01 10:17:52.854 [info] update#setState idle
+2025-05-01 11:02:24.993 [info] Extension host with pid 13552 exited with code: 0, signal: unknown.
+2025-05-01 14:01:06.468 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-01 14:01:06.469 [info] update#setState checking for updates
+2025-05-01 14:01:14.894 [info] update#setState idle
+2025-05-01 15:24:29.361 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-01 15:24:29.435 [info] update#setState checking for updates
+2025-05-01 15:24:36.566 [info] update#setState idle
+2025-05-01 16:24:29.301 [info] update#setState checking for updates
+2025-05-01 16:24:29.546 [info] update#setState idle
+2025-05-01 17:04:55.537 [warning] [perf] profiling STARTED 0636d589-6a34-46cb-b07a-8245c843e3a2
+2025-05-01 17:05:00.641 [warning] [perf] profiling DONE 0636d589-6a34-46cb-b07a-8245c843e3a2
+2025-05-01 17:05:01.131 [warning] [perf] profiling STARTED 0636d589-6a34-46cb-b07a-8245c843e3a2
+2025-05-01 17:05:06.200 [warning] [perf] profiling DONE 0636d589-6a34-46cb-b07a-8245c843e3a2
+2025-05-01 17:05:06.683 [warning] [perf] profiling STARTED 0636d589-6a34-46cb-b07a-8245c843e3a2
+2025-05-01 17:05:11.751 [warning] [perf] profiling DONE 0636d589-6a34-46cb-b07a-8245c843e3a2
+2025-05-01 17:24:29.304 [info] update#setState checking for updates
+2025-05-01 17:24:30.187 [info] update#setState idle
+2025-05-02 10:05:14.284 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-02 10:05:14.284 [info] update#setState checking for updates
+2025-05-02 10:05:14.215 [info] update#setState idle
+2025-05-02 12:44:54.470 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-02 12:44:54.747 [info] update#setState checking for updates
+2025-05-02 12:45:03.167 [info] update#setState idle
+2025-05-02 13:44:54.751 [info] update#setState checking for updates
+2025-05-02 13:44:54.967 [info] update#setState idle
+2025-05-02 14:44:54.771 [info] update#setState checking for updates
+2025-05-02 14:44:55.043 [info] update#setState idle
+2025-05-02 15:44:54.773 [info] update#setState checking for updates
+2025-05-02 15:44:55.005 [info] update#setState idle
+2025-05-02 16:32:54.527 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-02 16:32:59.777 [warning] [perf] profiling STARTED 85ee7e0f-0d6b-4a69-8c55-bba50f35ca6a
+2025-05-02 16:33:04.997 [warning] [perf] profiling DONE 85ee7e0f-0d6b-4a69-8c55-bba50f35ca6a
+2025-05-02 16:33:06.668 [warning] [perf] profiling STARTED 85ee7e0f-0d6b-4a69-8c55-bba50f35ca6a
+2025-05-02 16:33:11.830 [warning] [perf] profiling DONE 85ee7e0f-0d6b-4a69-8c55-bba50f35ca6a
+2025-05-02 16:33:13.650 [warning] [perf] profiling STARTED 85ee7e0f-0d6b-4a69-8c55-bba50f35ca6a
+2025-05-02 16:33:18.798 [warning] [perf] profiling DONE 85ee7e0f-0d6b-4a69-8c55-bba50f35ca6a
+2025-05-02 16:33:51.966 [warning] [perf] profiling STARTED e9d4e47c-b980-41ad-84bf-ff0018f38d69
+2025-05-02 16:33:57.023 [warning] [perf] profiling DONE e9d4e47c-b980-41ad-84bf-ff0018f38d69
+2025-05-02 16:33:57.605 [warning] [perf] profiling STARTED e9d4e47c-b980-41ad-84bf-ff0018f38d69
+2025-05-02 16:34:02.681 [warning] [perf] profiling DONE e9d4e47c-b980-41ad-84bf-ff0018f38d69
+2025-05-02 16:34:03.311 [warning] [perf] profiling STARTED e9d4e47c-b980-41ad-84bf-ff0018f38d69
+2025-05-02 16:34:08.397 [warning] [perf] profiling DONE e9d4e47c-b980-41ad-84bf-ff0018f38d69
+2025-05-02 16:44:54.122 [info] update#setState checking for updates
+2025-05-02 16:44:54.308 [info] update#setState idle
+2025-05-03 13:57:15.442 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-03 13:57:15.443 [info] update#setState checking for updates
+2025-05-03 13:57:22.844 [info] update#setState idle
+2025-05-03 14:57:15.476 [info] update#setState checking for updates
+2025-05-03 14:57:16.273 [info] update#setState idle
+2025-05-03 15:57:15.482 [info] update#setState checking for updates
+2025-05-03 15:57:16.552 [info] update#setState idle
+2025-05-05 08:58:21.935 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-05 08:58:21.936 [info] update#setState checking for updates
+2025-05-05 08:58:25.273 [error] #22: https://update.code.visualstudio.com/api/update/linux-x64/stable/17baf841131aa23349f217ca7c570c76ee87b957 - error undefined net::ERR_NETWORK_CHANGED
+2025-05-05 08:58:25.273 [error] Error: net::ERR_NETWORK_CHANGED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118774)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-05-05 08:58:25.273 [info] update#setState idle
+2025-05-05 11:29:06.424 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-05 11:29:06.424 [info] update#setState checking for updates
+2025-05-05 11:29:10.029 [info] update#setState idle
+2025-05-05 11:52:36.444 [info] Extension host with pid 21214 exited with code: 0, signal: unknown.

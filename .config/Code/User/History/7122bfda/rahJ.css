@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  header, footer {
+    width: 100%;
+    color: white; /* Default text color */
+    text-align: center;
+    padding: 10px 0;
+    background-color: #333; /* Default background color */
+  }
+  
+  .color-inputs {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+  }
+  
+  .color-inputs label {
+    font-weight: bold;
+  }
+  
+  .result-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .color-display {
+    width: 150px; /* Slightly larger display */
+    height: 150px; /* Slightly larger display */
+    border: 1px solid #ccc;
+    margin-bottom: 10px; /* Space between the display and the hex code */
+  }
+  
+  #hexCode {
+    margin-top: 0; /* Reset margin */
+    font-weight: bold;
+  }

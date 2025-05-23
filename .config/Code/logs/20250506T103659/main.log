@@ -1,0 +1,46 @@
+2025-05-06 10:37:00.009 [info] update#setState idle
+2025-05-06 10:37:30.013 [info] update#setState checking for updates
+2025-05-06 10:37:30.069 [info] update#setState idle
+2025-05-06 13:32:19.184 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-06 13:32:19.185 [info] update#setState checking for updates
+2025-05-06 13:32:22.881 [info] update#setState idle
+2025-05-06 20:18:00.294 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-06 20:18:00.294 [info] update#setState checking for updates
+2025-05-06 20:18:07.359 [info] update#setState idle
+2025-05-06 21:18:00.238 [info] update#setState checking for updates
+2025-05-06 21:18:00.569 [info] update#setState idle
+2025-05-06 22:18:00.264 [info] update#setState checking for updates
+2025-05-06 22:18:01.335 [info] update#setState idle
+2025-05-07 09:01:42.836 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-07 09:01:42.836 [info] update#setState checking for updates
+2025-05-07 09:01:44.035 [error] #8: https://update.code.visualstudio.com/api/update/linux-x64/stable/17baf841131aa23349f217ca7c570c76ee87b957 - error undefined net::ERR_NAME_NOT_RESOLVED
+2025-05-07 09:01:44.076 [error] Error: net::ERR_NAME_NOT_RESOLVED
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:118774)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+2025-05-07 09:01:44.091 [info] update#setState idle
+2025-05-07 10:02:34.396 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-07 10:02:34.457 [info] update#setState checking for updates
+2025-05-07 10:02:37.554 [info] update#setState idle
+2025-05-07 11:02:34.148 [info] update#setState checking for updates
+2025-05-07 11:02:34.331 [info] update#setState idle
+2025-05-07 11:36:08.684 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-07 12:02:33.380 [info] update#setState checking for updates
+2025-05-07 12:02:33.573 [info] update#setState idle
+2025-05-07 12:40:35.651 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-07 13:02:33.124 [info] update#setState checking for updates
+2025-05-07 13:02:33.328 [info] update#setState idle
+2025-05-07 13:17:14.868 [info] Extension host with pid 488 exited with code: 0, signal: unknown.
+2025-05-07 14:21:20.436 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-07 14:21:20.437 [info] update#setState checking for updates
+2025-05-07 14:21:28.616 [info] update#setState idle
+2025-05-07 15:21:20.332 [info] update#setState checking for updates
+2025-05-07 15:21:20.559 [info] update#setState idle
+2025-05-07 16:21:20.354 [info] update#setState checking for updates
+2025-05-07 16:21:20.581 [info] update#setState idle
+2025-05-07 16:35:23.656 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-07 16:36:35.667 [info] Extension host with pid 5957 exited with code: 0, signal: unknown.
+2025-05-07 17:40:32.254 [warning] No ptyHost heartbeat after 6 seconds
+2025-05-07 17:40:32.314 [info] update#setState checking for updates
+2025-05-07 17:40:35.500 [info] update#setState idle
+2025-05-07 17:58:22.314 [info] Extension host with pid 6024 exited with code: 0, signal: unknown.
+2025-05-07 18:04:52.300 [info] Extension host with pid 498 exited with code: 0, signal: unknown.

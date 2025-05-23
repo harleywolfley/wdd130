@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Color Mixer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header id="pageHeader">
+    <h1>Awesome Color Mixer</h1>
+  </header>
+
+  <div class="color-inputs">
+    <label for="color1">Color 1:</label>
+    <input type="color" id="color1" value="#ff0000">
+
+    <label for="color2">Color 2:</label>
+    <input type="color" id="color2" value="#0000ff">
+  </div>
+
+  <div class="result-container">
+    <h2>Result:</h2>
+    <div id="mixedColorDisplay" class="color-display" style="background-color: purple;"></div>
+    <p id="hexCode">#800080</p>
+  </div>
+
+  <footer id="pageFooter">
+    <p>Mixing colors is fun!</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

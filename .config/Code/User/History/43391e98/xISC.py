@@ -1,0 +1,17 @@
+fname = input(f"First name: ")
+lname = input(f"Last name: ")
+email = input(f"Email address: ")
+phone = input(f"Phone number: ")
+job = input(f"Job title: ")
+id = input(f"ID Number: ")
+print()
+print("The ID Card is:")
+print("-----------------------------")
+print(f"{lname.upper()}, {fname.capitalize()}")
+print(f"{job.title()}")
+print(f"ID: {id}")
+print()
+print(f"{email.lower()}")
+print(f"{phone}")
+
+

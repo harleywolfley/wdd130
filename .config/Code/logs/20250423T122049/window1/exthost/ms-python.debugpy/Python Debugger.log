@@ -1,0 +1,302 @@
+2025-04-23 20:09:14.596 [error] No workspace folder found
+2025-04-23 20:16:40.895 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-23 20:16:41.134 [info] No workspace folder found
+2025-04-23 20:16:41.161 [info] Resolving launch configuration with substituted variables
+2025-04-23 20:16:41.161 [info] No workspace folder found
+2025-04-23 20:16:41.274 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:16:41.629 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:16:41.638 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:16:41.638 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:16:44.043 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:17:59.679 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-23 20:17:59.897 [info] No workspace folder found
+2025-04-23 20:17:59.915 [info] Resolving launch configuration with substituted variables
+2025-04-23 20:17:59.915 [info] No workspace folder found
+2025-04-23 20:17:59.940 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:18:00.132 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:00.146 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:00.148 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:01.630 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:14.619 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:14.668 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:15.037 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:18:15.206 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:15.236 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:15.236 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:16.240 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:48.990 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:49.018 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:49.319 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:18:49.483 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:49.490 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:49.490 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:50.322 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:55.197 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-23 20:18:55.341 [info] No workspace folder found
+2025-04-23 20:18:55.377 [info] Resolving launch configuration with substituted variables
+2025-04-23 20:18:55.377 [info] No workspace folder found
+2025-04-23 20:18:55.396 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:18:55.618 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:55.653 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:55.666 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:18:56.941 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:02.674 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:02.711 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:03.012 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:20:03.265 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:03.283 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:03.284 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:04.260 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:04.304 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-23 20:20:04.407 [info] No workspace folder found
+2025-04-23 20:20:04.438 [info] Resolving launch configuration with substituted variables
+2025-04-23 20:20:04.438 [info] No workspace folder found
+2025-04-23 20:20:04.450 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:20:05.396 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:05.424 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:05.424 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:07.221 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:14.442 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:14.460 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:14.864 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:20:15.056 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:15.063 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:15.103 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:16.121 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:17.218 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:20:17.230 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:21:41.832 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-23 20:21:42.065 [info] No workspace folder found
+2025-04-23 20:21:42.073 [info] Resolving launch configuration with substituted variables
+2025-04-23 20:21:42.073 [info] No workspace folder found
+2025-04-23 20:21:42.084 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:21:42.301 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:21:42.304 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:21:42.304 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:21:43.072 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:21:44.241 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:21:44.282 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:22:13.951 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-23 20:22:14.212 [info] No workspace folder found
+2025-04-23 20:22:14.223 [info] Resolving launch configuration with substituted variables
+2025-04-23 20:22:14.223 [info] No workspace folder found
+2025-04-23 20:22:14.239 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:22:14.391 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:22:14.420 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:22:14.420 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:22:15.197 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:22:24.285 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-23 20:22:24.493 [info] No workspace folder found
+2025-04-23 20:22:24.505 [info] Resolving launch configuration with substituted variables
+2025-04-23 20:22:24.505 [info] No workspace folder found
+2025-04-23 20:22:24.517 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:22:24.722 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:22:24.731 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:22:24.745 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:22:26.505 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:22:37.973 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:22:37.986 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:23:29.540 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-23 20:23:29.785 [info] No workspace folder found
+2025-04-23 20:23:29.810 [info] Resolving launch configuration with substituted variables
+2025-04-23 20:23:29.811 [info] No workspace folder found
+2025-04-23 20:23:29.836 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:23:30.193 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:23:30.224 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:23:30.225 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:23:31.371 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:23:39.307 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:23:39.319 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:23:53.565 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-23 20:23:53.742 [info] No workspace folder found
+2025-04-23 20:23:53.758 [info] Resolving launch configuration with substituted variables
+2025-04-23 20:23:53.758 [info] No workspace folder found
+2025-04-23 20:23:53.770 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:23:53.989 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:23:54.005 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:23:54.005 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:23:54.980 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:24:19.613 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:24:19.616 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:31:27.224 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-23 20:31:27.372 [info] No workspace folder found
+2025-04-23 20:31:27.384 [info] Resolving launch configuration with substituted variables
+2025-04-23 20:31:27.384 [info] No workspace folder found
+2025-04-23 20:31:27.397 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:31:27.562 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:31:27.585 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:31:27.586 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:31:28.563 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:31:36.464 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:31:36.473 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:46:19.163 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-23 20:46:19.334 [info] No workspace folder found
+2025-04-23 20:46:19.345 [info] Resolving launch configuration with substituted variables
+2025-04-23 20:46:19.345 [info] No workspace folder found
+2025-04-23 20:46:19.352 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:46:19.550 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:46:19.571 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:46:19.585 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:46:20.425 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:46:29.673 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-23 20:46:29.839 [info] No workspace folder found
+2025-04-23 20:46:29.853 [info] Resolving launch configuration with substituted variables
+2025-04-23 20:46:29.853 [info] No workspace folder found
+2025-04-23 20:46:29.867 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-23 20:46:30.053 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:46:30.084 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:46:30.095 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:46:31.523 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:46:44.874 [info] Received 'debugpySockets' event from debugpy.
+2025-04-23 20:46:44.893 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:07:30.700 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:07:30.708 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:07:31.003 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-24 10:07:31.186 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:07:31.187 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:07:31.192 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:07:32.166 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:07:43.864 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:07:43.875 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:08:11.341 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:08:11.349 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:09:53.929 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-24 10:09:54.070 [info] No workspace folder found
+2025-04-24 10:09:54.077 [info] Resolving launch configuration with substituted variables
+2025-04-24 10:09:54.077 [info] No workspace folder found
+2025-04-24 10:09:54.087 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-24 10:09:54.244 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:09:54.245 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:09:54.457 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:09:55.026 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:10:28.297 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:10:28.318 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:19:53.504 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:19:53.549 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:19:53.871 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-24 10:19:54.226 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:19:54.351 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:19:54.351 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:19:55.147 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:20:05.239 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:20:05.259 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:21:25.961 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:21:25.969 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:21:26.271 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-24 10:21:26.500 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:21:26.504 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:21:26.515 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:21:27.289 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:21:49.603 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:21:49.605 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:22:23.271 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:22:23.294 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:56:49.762 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-24 10:56:50.057 [info] No workspace folder found
+2025-04-24 10:56:50.092 [info] Resolving launch configuration with substituted variables
+2025-04-24 10:56:50.092 [info] No workspace folder found
+2025-04-24 10:56:50.113 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-24 10:56:50.386 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:56:50.387 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:56:50.389 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:56:51.758 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:57:03.071 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:57:03.086 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:59:01.606 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-24 10:59:01.791 [info] No workspace folder found
+2025-04-24 10:59:01.813 [info] Resolving launch configuration with substituted variables
+2025-04-24 10:59:01.813 [info] No workspace folder found
+2025-04-24 10:59:01.819 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-24 10:59:02.002 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:59:02.007 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:59:02.007 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:59:02.718 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:59:08.795 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 10:59:08.799 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:08:09.435 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-24 11:08:09.581 [info] No workspace folder found
+2025-04-24 11:08:09.629 [info] Resolving launch configuration with substituted variables
+2025-04-24 11:08:09.629 [info] No workspace folder found
+2025-04-24 11:08:09.652 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-24 11:08:09.935 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:08:09.941 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:08:09.942 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:08:10.857 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:08:11.895 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:08:11.910 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:11:24.010 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-24 11:11:24.099 [info] No workspace folder found
+2025-04-24 11:11:24.144 [info] Resolving launch configuration with substituted variables
+2025-04-24 11:11:24.144 [info] No workspace folder found
+2025-04-24 11:11:24.191 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-24 11:11:24.348 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:11:24.381 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:11:24.381 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:11:24.939 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:11:25.988 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:11:25.997 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:11:50.274 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-24 11:11:50.437 [info] No workspace folder found
+2025-04-24 11:11:50.463 [info] Resolving launch configuration with substituted variables
+2025-04-24 11:11:50.463 [info] No workspace folder found
+2025-04-24 11:11:50.474 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-24 11:11:50.737 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:11:50.746 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:11:50.750 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:11:51.335 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:11:52.396 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:11:52.398 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:12:43.354 [info] No workspace folder found
+2025-04-24 11:12:43.403 [info] Resolving launch configuration with substituted variables
+2025-04-24 11:12:43.403 [info] No workspace folder found
+2025-04-24 11:12:43.414 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-24 11:12:43.588 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:12:43.599 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:12:43.602 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:12:44.352 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:12:45.508 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:12:45.519 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:13:26.720 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-24 11:13:27.043 [info] No workspace folder found
+2025-04-24 11:13:27.081 [info] Resolving launch configuration with substituted variables
+2025-04-24 11:13:27.081 [info] No workspace folder found
+2025-04-24 11:13:27.095 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-24 11:13:27.280 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:13:27.289 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:13:27.310 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:13:27.890 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:13:45.343 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-24 11:13:45.473 [info] No workspace folder found
+2025-04-24 11:13:45.492 [info] Resolving launch configuration with substituted variables
+2025-04-24 11:13:45.492 [info] No workspace folder found
+2025-04-24 11:13:45.503 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-24 11:13:45.763 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:13:45.776 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:13:45.780 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:13:46.957 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:13:55.069 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:13:55.079 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:14:09.705 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-24 11:14:09.810 [info] No workspace folder found
+2025-04-24 11:14:09.818 [info] Resolving launch configuration with substituted variables
+2025-04-24 11:14:09.818 [info] No workspace folder found
+2025-04-24 11:14:09.834 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-24 11:14:10.017 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:14:10.050 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:14:10.050 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:14:10.719 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:14:15.574 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 11:14:15.579 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 12:01:27.585 [info] Debugging using the editor button 'Debug in terminal'
+2025-04-24 12:01:27.702 [info] No workspace folder found
+2025-04-24 12:01:27.715 [info] Resolving launch configuration with substituted variables
+2025-04-24 12:01:27.715 [info] No workspace folder found
+2025-04-24 12:01:27.720 [info] DAP Server launched with command: /bin/python3 /home/harleywolfley/.vscode/extensions/ms-python.debugpy-2025.6.0-linux-x64/bundled/libs/debugpy/adapter
+2025-04-24 12:01:27.875 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 12:01:27.875 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 12:01:27.876 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 12:01:28.700 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 12:01:37.027 [info] Received 'debugpySockets' event from debugpy.
+2025-04-24 12:01:37.052 [info] Received 'debugpySockets' event from debugpy.
+2025-04-25 18:59:52.621 [info] Received 'debugpySockets' event from debugpy.
+2025-04-25 18:59:52.649 [info] Received 'debugpySockets' event from debugpy.

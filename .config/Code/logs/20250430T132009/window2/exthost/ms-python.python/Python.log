@@ -1,0 +1,6 @@
+2025-04-30 15:31:06.144 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2025-04-30 15:31:06.144 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2025-04-30 15:31:06.145 [info] Python interpreter path: /bin/python3
+2025-04-30 15:31:14.878 [info] Starting Pylance language server.
+2025-05-01 10:29:57.255 [info] CreateEnv Trigger - Workspace not found for /home/harleywolfley/spring25/cse110/asd.py
+2025-05-01 10:58:31.881 [info] Send text to terminal: /bin/python3 /home/harleywolfley/spring25/cse110/02prove.py
