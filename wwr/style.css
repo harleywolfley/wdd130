@@ -1,0 +1,186 @@
+/* palette colors
+#124c5c dark blue
+#628b97 medium blue
+#b2cad1 light blue
+#f09c83 coral
+*/
+
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400&display=swap');
+
+div {
+    max-width: 1600px;
+}
+
+#logo_link {
+    padding-top: 5px;
+}
+
+#hero-img {
+    width: 100%;
+}
+
+#content {
+    margin: 0 auto;
+}
+
+#background {
+    height: 725px;
+    background-color: #124c5c;
+}
+
+.card-img {
+    border: 10px solid #124c5c;
+}
+
+.rivers-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
+
+.home-title {
+    color:#628b97;
+    margin-top: 10px;
+    font-size: 2em;
+    font-family: zain, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.book, .join {
+    background-color: #124c5c;
+    color:#f09c83;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+
+.logo {
+    width: 80px;
+}
+
+.icon {
+    width: 80px;
+    padding-top: 10px;
+}
+
+body {
+    background-color: #b2cad1;
+    margin: 0;
+    padding: 0;
+    font-size: 22px;
+    font-family: zain, 'Courier New', Courier, monospace, sans-serif;
+}
+
+header {
+    background-color: #124c5c;
+}
+
+nav {
+    text-align: center;
+    background-color: #124c5c;
+}
+
+nav a {
+    color:#b2cad1;
+    text-align: center;
+    text-decoration: none;
+    padding: 35px;
+}
+
+a {
+    text-align: center;
+}
+
+nav a:hover {
+    color:#124c5c
+}
+
+a:hover {
+    background-color: #b2cad1;
+}
+
+.book:hover {
+    background-color: #f09c83;
+    color:#124c5c;
+}
+
+.join:hover {
+    background-color: #f09c83;
+    color:#124c5c;
+}
+
+h2 {
+  margin: 0;  
+}
+
+h4 {
+    color:#f09c83;
+    font-family: Urbanist, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.msg {
+    background-color: #124c5c;
+    line-height: 1.5em;
+    padding: 35px;
+}
+
+.msg h2 {
+    color:#124c5c;
+    font-family: zain, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.msg p {
+    color:#124c5c;
+    font-size: .8em;
+    padding-bottom: 15px;
+}
+
+#hero-msg h1 {
+    text-align: center;
+    font-family: Urbanist, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#hero-msg h4 {
+    text-align: center;
+    font-family: Urbanist, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.button-box {
+    text-align: center;
+}
+
+main section {
+    text-align: center;
+}
+
+main section img {
+    box-sizing: border-box;
+}
+
+footer {
+    background-color: #124c5c;
+    color:#b2cad1;
+    padding: 25px 50px;
+    margin-top: 200px;
+}
+
+footer .social img {
+    padding-top: 15px;
+}
+
+footer a {
+    color:#b2cad1;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color:#124c5c;
+}
+
+footer p {
+    font-size: 1.2em;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}
