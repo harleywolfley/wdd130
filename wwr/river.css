@@ -1,0 +1,11 @@
+#river-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    margin: 0;
+}
+
+.river-hero img {
+    width: 100%;
+    margin: auto;
+    grid-column: 1/8;
+}
